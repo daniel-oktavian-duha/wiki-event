@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -100,7 +100,7 @@
     <div class="container-fluid">
         <header class="text-center mb-4 pt-3">
             <h1 class="fw-light m-0" style="color: var(--accent); letter-spacing: 5px; font-size: 1.8rem;">HISTORY CALENDAR</h1>
-            <p class="text-muted small">Pilih tanggal untuk melihat arsip dunia</p>
+            <p class="text-muted small">Select a date to explore world archives</p>
         </header>
         <div class="row justify-content-center">
             <div class="col-12 col-xl-9"><div id="calendar"></div></div>
@@ -121,7 +121,7 @@
                     <div class="timeline-wrapper">
                         <div class="pipeline-column" id="pipelineList"><div class="pipeline-line"></div></div>
                         <div class="preview-column">
-                            <div id="previewPlaceholder" class="text-center text-muted my-auto small italic"><p>Klik pada tahun di sisi kiri untuk melihat detail</p></div>
+                            <div id="previewPlaceholder" class="text-center text-muted my-auto small italic"><p>Click on a year to see details</p></div>
                             <div id="eventPreview" style="display:none;"></div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
         $(document).ready(function() {
             const calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
                 initialView: 'dayGridMonth',
-                locale: 'id',
+                locale: 'en', // Switched to English
                 height: 'auto',
                 headerToolbar: { left: 'prev,next', center: 'title', right: 'today' },
                 dateClick: function(info) { loadData(info.date); }
@@ -150,7 +150,8 @@
                 const d = date.getDate();
                 const fileName = `Wiki-${m}-${d}.json`;
 
-                $('#modalTitle').text(`${d} ${date.toLocaleString('id-ID', { month: 'long' })}`);
+                // Set English date format in title
+                $('#modalTitle').text(`${date.toLocaleString('en-US', { month: 'long', day: 'numeric' })}`);
                 $('#totalEventWrapper').empty();
                 $('#pipelineList .timeline-item').remove();
                 $('#eventPreview').hide().empty();
@@ -158,17 +159,17 @@
                 $('#eventModal').modal('show');
 
                 $.ajax({
-                    url: `wiki/${fileName}`,
+                    url: `/wiki/${fileName}`,
                     dataType: 'json',
                     success: function(data) {
                         const rawEvents = data.events || [];
                         
-                        // Tampilkan Total Event di Header Modal
+                        // Total Event Banner
                         if(rawEvents.length > 0) {
-                            $('#totalEventWrapper').html(`<span class="total-event-banner">Total ${rawEvents.length} Peristiwa Bersejarah</span>`);
+                            $('#totalEventWrapper').html(`<span class="total-event-banner">Total ${rawEvents.length} Historical Events</span>`);
                         }
 
-                        // Grouping berdasarkan tahun
+                        // Grouping by year
                         const groupedEvents = {};
                         rawEvents.forEach(ev => {
                             if (!groupedEvents[ev.year]) groupedEvents[ev.year] = [];
@@ -179,12 +180,12 @@
 
                         sortedYears.forEach((year) => {
                             const eventsInYear = groupedEvents[year];
-                            const countBadge = eventsInYear.length > 1 ? `<br><small style="font-family:sans-serif; font-size:0.7rem; opacity:0.7;">${eventsInYear.length} Peristiwa</small>` : '';
+                            const countBadge = eventsInYear.length > 1 ? `<br><small style="font-family:sans-serif; font-size:0.7rem; opacity:0.7;">${eventsInYear.length} Events</small>` : '';
 
                             const item = $(`
                                 <div class="timeline-item">
                                     <div class="timeline-node"></div>
-                                    <div class="year-label">Tahun ${year}${countBadge}</div>
+                                    <div class="year-label">Year ${year}${countBadge}</div>
                                 </div>
                             `);
 
@@ -193,7 +194,7 @@
                                 item.addClass('active-node');
                                 $('#previewPlaceholder').hide();
                                 
-                                let rightHtml = `<h3 class="preview-title" style="border-bottom:1px solid var(--border-color); padding-bottom:15px; margin-bottom:30px;">Arsip Tahun ${year}</h3>`;
+                                let rightHtml = `<h3 class="preview-title" style="border-bottom:1px solid var(--border-color); padding-bottom:15px; margin-bottom:30px;">Archive of Year ${year}</h3>`;
                                 
                                 eventsInYear.forEach((ev, idx) => {
                                     let imgUrl = '';
@@ -204,11 +205,11 @@
 
                                     rightHtml += `
                                         <div class="event-detail-block">
-                                            ${eventsInYear.length > 1 ? `<div class="badge mb-3" style="background:var(--accent); color:#000;">Kejadian #${idx + 1}</div>` : ''}
+                                            ${eventsInYear.length > 1 ? `<div class="badge mb-3" style="background:var(--accent); color:#000;">Event #${idx + 1}</div>` : ''}
                                             ${imgUrl ? `<img src="${imgUrl}" class="preview-img shadow">` : ''}
                                             <p class="preview-desc">${ev.text}</p>
                                             <div class="d-flex flex-wrap gap-2">
-                                                ${ev.pages.map(p => `<a href="${p.content_urls.desktop.page}" target="_blank" class="btn-wiki">${p.title}</a>`).join('')}
+                                                ${ev.pages.map(p => `<a href="${p.content_urls.desktop.page}" target="_blank" class="btn-wiki">📖 ${p.title}</a>`).join('')}
                                             </div>
                                         </div>
                                     `;
@@ -223,7 +224,7 @@
                         if(sortedYears.length > 0) $('.timeline-item').first().trigger('click');
                     },
                     error: function() {
-                        $('#previewPlaceholder').html('<div class="text-danger py-5">Data arsip tidak ditemukan untuk tanggal ini.</div>');
+                        $('#previewPlaceholder').html('<div class="text-danger py-5">Archive data not found for this date.</div>');
                     }
                 });
             }
