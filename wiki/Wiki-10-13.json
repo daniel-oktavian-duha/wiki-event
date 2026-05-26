@@ -1,0 +1,3214 @@
+{
+  "events": [
+    {
+      "text": "Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Brigid_Kosgei",
+          "displaytitle": "<span class=\"mw-page-title-main\">Brigid Kosgei</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q52129159",
+          "titles": {
+            "canonical": "Brigid_Kosgei",
+            "normalized": "Brigid Kosgei",
+            "display": "<span class=\"mw-page-title-main\">Brigid Kosgei</span>"
+          },
+          "pageid": 58686016,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/London_Marathon_2018_%2827765192508%29.jpg/330px-London_Marathon_2018_%2827765192508%29.jpg",
+            "width": 330,
+            "height": 566
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/London_Marathon_2018_%2827765192508%29.jpg",
+            "width": 1142,
+            "height": 1957
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1341079580",
+          "tid": "5ea91514-154d-11f1-b25e-da3b8592e4b4",
+          "timestamp": "2026-03-01T09:02:27Z",
+          "description": "Kenyan long-distance runner",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Brigid_Kosgei",
+              "revisions": "https://en.wikipedia.org/wiki/Brigid_Kosgei?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Brigid_Kosgei?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Brigid_Kosgei"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Brigid_Kosgei",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Brigid_Kosgei",
+              "edit": "https://en.wikipedia.org/wiki/Brigid_Kosgei?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Brigid_Kosgei"
+            }
+          },
+          "extract": "Brigid Jepchirchir Kosgei is a Kenyan long-distance runner who specialises in the marathon. She won the 2018 and 2019 Chicago Marathons, the 2019 and 2020 London Marathons and the 2021 and 2026 Tokyo Marathons. Kosgei was the marathon world record holder for women running in a mixed-sex race, with a time of 2:14:04 achieved on 13 October 2019 at the Chicago Marathon. She won the silver medal in the marathon event at the 2020 Tokyo Olympics.",
+          "extract_html": "<p><b>Brigid Jepchirchir Kosgei</b> is a Kenyan long-distance runner who specialises in the marathon. She won the 2018 and 2019 Chicago Marathons, the 2019 and 2020 London Marathons and the 2021 and 2026 Tokyo Marathons. Kosgei was the marathon world record holder for women running in a mixed-sex race, with a time of 2:14:04 achieved on 13 October 2019 at the Chicago Marathon. She won the silver medal in the marathon event at the 2020 Tokyo Olympics.</p>",
+          "normalizedtitle": "Brigid Kosgei"
+        },
+        {
+          "type": "standard",
+          "title": "2019_Chicago_Marathon",
+          "displaytitle": "<span class=\"mw-page-title-main\">2019 Chicago Marathon</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q70836732",
+          "titles": {
+            "canonical": "2019_Chicago_Marathon",
+            "normalized": "2019 Chicago Marathon",
+            "display": "<span class=\"mw-page-title-main\">2019 Chicago Marathon</span>"
+          },
+          "pageid": 62050853,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2019_Chicago_Marathon.jpg/330px-2019_Chicago_Marathon.jpg",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2019_Chicago_Marathon.jpg",
+            "width": 3600,
+            "height": 2400
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1325184472",
+          "tid": "6d454b8d-ced8-11f0-a692-2c9f75b80350",
+          "timestamp": "2025-12-01T17:08:59Z",
+          "description": "42nd edition of the event",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/2019_Chicago_Marathon",
+              "revisions": "https://en.wikipedia.org/wiki/2019_Chicago_Marathon?action=history",
+              "edit": "https://en.wikipedia.org/wiki/2019_Chicago_Marathon?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2019_Chicago_Marathon"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/2019_Chicago_Marathon",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/2019_Chicago_Marathon",
+              "edit": "https://en.wikipedia.org/wiki/2019_Chicago_Marathon?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2019_Chicago_Marathon"
+            }
+          },
+          "extract": "The 2019 Chicago Marathon was the 42nd annual running of the Chicago Marathon held in Chicago, Illinois, United States on October 13, 2019. The men's race was won by Kenyan Lawrence Cherono in 2:05:45 while the women's was won by Kenyan Brigid Kosgei in 2:14:04, a world record by 81 seconds. The men's and women's wheelchair races were won by Daniel Romanchuk and Manuela Schär in 1:30:26 and 1:41:08, respectively. More than 45,000 runners completed the race.",
+          "extract_html": "<p>The <b>2019 Chicago Marathon</b> was the 42nd annual running of the Chicago Marathon held in Chicago, Illinois, United States on October 13, 2019. The men's race was won by Kenyan Lawrence Cherono in 2:05:45 while the women's was won by Kenyan Brigid Kosgei in 2:14:04, a world record by 81 seconds. The men's and women's wheelchair races were won by Daniel Romanchuk and Manuela Schär in 1:30:26 and 1:41:08, respectively. More than 45,000 runners completed the race.</p>",
+          "normalizedtitle": "2019 Chicago Marathon"
+        }
+      ],
+      "year": 2019
+    },
+    {
+      "text": "The Maldives announces its decision to withdraw from the Commonwealth of Nations.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Maldives",
+          "displaytitle": "<span class=\"mw-page-title-main\">Maldives</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q826",
+          "titles": {
+            "canonical": "Maldives",
+            "normalized": "Maldives",
+            "display": "<span class=\"mw-page-title-main\">Maldives</span>"
+          },
+          "pageid": 19117,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/330px-Flag_of_Maldives.svg.png",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/960px-Flag_of_Maldives.svg.png",
+            "width": 720,
+            "height": 480
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347614849",
+          "tid": "a6d7f6b3-32b0-11f1-a036-1efaf8655a15",
+          "timestamp": "2026-04-07T18:36:12Z",
+          "description": "Island country in South Asia",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 4.18,
+            "lon": 73.51
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Maldives",
+              "revisions": "https://en.wikipedia.org/wiki/Maldives?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Maldives?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maldives"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Maldives",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Maldives",
+              "edit": "https://en.wikipedia.org/wiki/Maldives?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maldives"
+            }
+          },
+          "extract": "The Maldives, officially the Republic of Maldives, and historically known as the Maldive Islands, is an archipelagic country in South Asia located in the Indian Ocean. The Maldives is southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland. The Maldives' chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.",
+          "extract_html": "<p>The <b>Maldives</b>, officially the <b>Republic of Maldives</b>, and historically known as the <b>Maldive Islands</b>, is an archipelagic country in South Asia located in the Indian Ocean. The Maldives is southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland. The Maldives' chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north to Addu Atoll in the south.</p>",
+          "normalizedtitle": "Maldives"
+        }
+      ],
+      "year": 2016
+    },
+    {
+      "text": "A stampede occurs in India during the Hindu festival Navratri, killing 115 and injuring more than 110.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "2013_Madhya_Pradesh_stampede",
+          "displaytitle": "<span class=\"mw-page-title-main\">2013 Madhya Pradesh stampede</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q15073008",
+          "titles": {
+            "canonical": "2013_Madhya_Pradesh_stampede",
+            "normalized": "2013 Madhya Pradesh stampede",
+            "display": "<span class=\"mw-page-title-main\">2013 Madhya Pradesh stampede</span>"
+          },
+          "pageid": 40793037,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347615733",
+          "tid": "96744b22-32b1-11f1-9e02-9debc4fddcb9",
+          "timestamp": "2026-04-07T18:42:54Z",
+          "description": "Human crush in Pradesh, India",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 26.09277778,
+            "lon": 78.64194444
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_stampede",
+              "revisions": "https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_stampede?action=history",
+              "edit": "https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_stampede?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2013_Madhya_Pradesh_stampede"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_stampede",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/2013_Madhya_Pradesh_stampede",
+              "edit": "https://en.wikipedia.org/wiki/2013_Madhya_Pradesh_stampede?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2013_Madhya_Pradesh_stampede"
+            }
+          },
+          "extract": "On 13 October 2013, during the Hindu festival of Navratri, a stampede broke out on a bridge near the Ratangarh Mata Temple in Datia district, Madhya Pradesh, India, killing 115 people and injuring more than 110.",
+          "extract_html": "<p>On 13 October 2013, during the Hindu festival of Navratri, a stampede broke out on a bridge near the Ratangarh Mata Temple in Datia district, Madhya Pradesh, India, killing 115 people and injuring more than 110.</p>",
+          "normalizedtitle": "2013 Madhya Pradesh stampede"
+        }
+      ],
+      "year": 2013
+    },
+    {
+      "text": "The mining accident in Copiapó, Chile ends as all 33 trapped miners arrive at the surface after a record 69 days underground.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "2010_Copiapó_mining_accident",
+          "displaytitle": "<span class=\"mw-page-title-main\">2010 Copiapó mining accident</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q214790",
+          "titles": {
+            "canonical": "2010_Copiapó_mining_accident",
+            "normalized": "2010 Copiapó mining accident",
+            "display": "<span class=\"mw-page-title-main\">2010 Copiapó mining accident</span>"
+          },
+          "pageid": 28486453,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mina_San_Jos%C3%A9_de_Copiap%C3%B3_en_2010.jpg/330px-Mina_San_Jos%C3%A9_de_Copiap%C3%B3_en_2010.jpg",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mina_San_Jos%C3%A9_de_Copiap%C3%B3_en_2010.jpg",
+            "width": 1024,
+            "height": 768
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345253237",
+          "tid": "e7406a63-2802-11f1-9d45-59956ed93094",
+          "timestamp": "2026-03-25T04:27:16Z",
+          "description": "Cave-in and miner rescue in Atacama Region, Chile",
+          "description_source": "local",
+          "coordinates": {
+            "lat": -27.158609,
+            "lon": -70.497655
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident",
+              "revisions": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident?action=history",
+              "edit": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2010_Copiap%C3%B3_mining_accident"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/2010_Copiap%C3%B3_mining_accident",
+              "edit": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:2010_Copiap%C3%B3_mining_accident"
+            }
+          },
+          "extract": "A mining accident began on 5 August 2010 with a cave-in at the San José copper–gold mine in the Atacama Desert, 45 kilometers (28 mi) north of the regional capital of Copiapó, in northern Chile. Thirty-three men were trapped 700 meters (2,300 ft) underground and 5 kilometers (3 mi) from the mine's entrance. They were rescued 69 days later.",
+          "extract_html": "<p>A mining accident began on 5 August 2010 with a cave-in at the San José copper–gold mine in the Atacama Desert, 45 kilometers (28 mi) north of the regional capital of Copiapó, in northern Chile. Thirty-three men were trapped 700 meters (2,300 ft) underground and 5 kilometers (3 mi) from the mine's entrance. They were rescued 69 days later.</p>",
+          "normalizedtitle": "2010 Copiapó mining accident"
+        }
+      ],
+      "year": 2010
+    },
+    {
+      "text": "At least 60 people die in eastern Papua New Guinea when a series of earthquakes rock the Finisterre Range, triggering massive landslides.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "1993_Finisterre_earthquakes",
+          "displaytitle": "<span class=\"mw-page-title-main\">1993 Finisterre earthquakes</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q109236770",
+          "titles": {
+            "canonical": "1993_Finisterre_earthquakes",
+            "normalized": "1993 Finisterre earthquakes",
+            "display": "<span class=\"mw-page-title-main\">1993 Finisterre earthquakes</span>"
+          },
+          "pageid": 68983071,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1291885423",
+          "tid": "d2d1c419-3831-11f0-ba0e-b3abe1c56440",
+          "timestamp": "2025-05-23T23:58:29Z",
+          "description": "Earthquakes in Eastern Papua New Guinea",
+          "description_source": "local",
+          "coordinates": {
+            "lat": -5.889,
+            "lon": 146.02
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/1993_Finisterre_earthquakes",
+              "revisions": "https://en.wikipedia.org/wiki/1993_Finisterre_earthquakes?action=history",
+              "edit": "https://en.wikipedia.org/wiki/1993_Finisterre_earthquakes?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1993_Finisterre_earthquakes"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/1993_Finisterre_earthquakes",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/1993_Finisterre_earthquakes",
+              "edit": "https://en.wikipedia.org/wiki/1993_Finisterre_earthquakes?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1993_Finisterre_earthquakes"
+            }
+          },
+          "extract": "The 1993 Finisterre Range earthquakes began on October 13 with a Mw  6.9 mainshock, followed by Mw  6.5 and 6.7 earthquakes. These earthquakes struck beneath the Finisterre Range, north of Markham Valley in Morobe Province, Papua New Guinea. The complex earthquake sequence seriously damaged many villages in the rural Eastern Papua New Guinea region, generating landslides and killing at least 60 people.",
+          "extract_html": "<p>The <b>1993 Finisterre Range earthquakes</b> began on October 13 with a M<sub>w</sub>  6.9 mainshock, followed by M<sub>w</sub>  6.5 and 6.7 earthquakes. These earthquakes struck beneath the Finisterre Range, north of Markham Valley in Morobe Province, Papua New Guinea. The complex earthquake sequence seriously damaged many villages in the rural Eastern Papua New Guinea region, generating landslides and killing at least 60 people.</p>",
+          "normalizedtitle": "1993 Finisterre earthquakes"
+        }
+      ],
+      "year": 1993
+    },
+    {
+      "text": "Syrian forces attack free areas of Lebanon, removing General Michel Aoun from the presidential palace.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Michel_Aoun",
+          "displaytitle": "<span class=\"mw-page-title-main\">Michel Aoun</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q363392",
+          "titles": {
+            "canonical": "Michel_Aoun",
+            "normalized": "Michel Aoun",
+            "display": "<span class=\"mw-page-title-main\">Michel Aoun</span>"
+          },
+          "pageid": 818642,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sergio_Mattarella_e_Michel_Aoun_al_Quirinale_nel_2022_%286%29_%28cropped%29.jpg/330px-Sergio_Mattarella_e_Michel_Aoun_al_Quirinale_nel_2022_%286%29_%28cropped%29.jpg",
+            "width": 330,
+            "height": 451
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sergio_Mattarella_e_Michel_Aoun_al_Quirinale_nel_2022_%286%29_%28cropped%29.jpg",
+            "width": 864,
+            "height": 1181
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347287553",
+          "tid": "c9430590-3130-11f1-8702-6614d505dd40",
+          "timestamp": "2026-04-05T20:48:23Z",
+          "description": "President of Lebanon from 2016 to 2022",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Michel_Aoun",
+              "revisions": "https://en.wikipedia.org/wiki/Michel_Aoun?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Michel_Aoun?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Michel_Aoun"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Michel_Aoun",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Michel_Aoun",
+              "edit": "https://en.wikipedia.org/wiki/Michel_Aoun?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Michel_Aoun"
+            }
+          },
+          "extract": "Michel Naim Aoun is a Lebanese politician and former general who served as the 13th president of Lebanon from 31 October 2016 to 30 October 2022.",
+          "extract_html": "<p><b>Michel Naim Aoun</b> is a Lebanese politician and former general who served as the 13th president of Lebanon from 31 October 2016 to 30 October 2022.</p>",
+          "normalizedtitle": "Michel Aoun"
+        }
+      ],
+      "year": 1990
+    },
+    {
+      "text": "Ameritech Mobile Communications launches the first US cellular network in Chicago.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Ameritech_Cellular",
+          "displaytitle": "<span class=\"mw-page-title-main\">Ameritech Cellular</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q4745804",
+          "titles": {
+            "canonical": "Ameritech_Cellular",
+            "normalized": "Ameritech Cellular",
+            "display": "<span class=\"mw-page-title-main\">Ameritech Cellular</span>"
+          },
+          "pageid": 2705671,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347614077",
+          "tid": "b571df25-32af-11f1-926e-4a5301b02482",
+          "timestamp": "2026-04-07T18:29:27Z",
+          "description": "American wireless services company; subsidiary of AT&T",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Ameritech_Cellular",
+              "revisions": "https://en.wikipedia.org/wiki/Ameritech_Cellular?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Ameritech_Cellular?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ameritech_Cellular"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Ameritech_Cellular",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Ameritech_Cellular",
+              "edit": "https://en.wikipedia.org/wiki/Ameritech_Cellular?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ameritech_Cellular"
+            }
+          },
+          "extract": "Ameritech Mobile Communications, LLC was the first telecommunications company in the U.S. to provide cellular mobile phone service to the general public. Cell service became publicly available in Chicago on October 13, 1983. The company was a division of Ameritech which, as of January 1, 1984, was the holding company of Illinois Bell, Michigan Bell, Wisconsin Bell, Ohio Bell, and Indiana Bell, which provide landline service to the Great Lakes region. From around 1986, Cincinnati Bell held a 45% stake in the company. Originally named Ameritech Mobile Communications, it later became known as Ameritech Cellular.",
+          "extract_html": "<p><b>Ameritech Mobile Communications, LLC</b> was the first telecommunications company in the U.S. to provide cellular mobile phone service to the general public. Cell service became publicly available in Chicago on October 13, 1983. The company was a division of Ameritech which, as of January 1, 1984, was the holding company of Illinois Bell, Michigan Bell, Wisconsin Bell, Ohio Bell, and Indiana Bell, which provide landline service to the Great Lakes region. From around 1986, Cincinnati Bell held a 45% stake in the company. Originally named Ameritech Mobile Communications, it later became known as Ameritech Cellular.</p>",
+          "normalizedtitle": "Ameritech Cellular"
+        }
+      ],
+      "year": 1983
+    },
+    {
+      "text": "Hijacking of Lufthansa Flight 181 by the Popular Front for the Liberation of Palestine.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Lufthansa_Flight_181",
+          "displaytitle": "<span class=\"mw-page-title-main\">Lufthansa Flight 181</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q326241",
+          "titles": {
+            "canonical": "Lufthansa_Flight_181",
+            "normalized": "Lufthansa Flight 181",
+            "display": "<span class=\"mw-page-title-main\">Lufthansa Flight 181</span>"
+          },
+          "pageid": 3224573,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg/330px-D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/D-ABCE_B737-230C_Lufthansa_MAN_24OCT75_%286141698947%29.jpg",
+            "width": 2729,
+            "height": 1819
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1341207195",
+          "tid": "4ed41298-15d3-11f1-91ff-56dde859a6dd",
+          "timestamp": "2026-03-02T01:01:13Z",
+          "description": "1977 aircraft hijacking",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181",
+              "revisions": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Lufthansa_Flight_181"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Lufthansa_Flight_181",
+              "edit": "https://en.wikipedia.org/wiki/Lufthansa_Flight_181?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Lufthansa_Flight_181"
+            }
+          },
+          "extract": "Lufthansa Flight 181, a Boeing 737-230C jet airliner named Landshut, was hijacked on 13 October 1977 by four militants of the Popular Front for the Liberation of Palestine while en route from Palma de Mallorca, Spain, to Frankfurt am Main, West Germany. The hijacking aimed to secure the release of eleven notorious Red Army Faction leaders held in West German prisons and two Palestinians held in Turkey. This event was part of the so-called German Autumn, intended to increase pressure on the West German government. The hijackers diverted the flight to several locations before ending in Mogadishu, Somalia, where the crisis concluded in the early morning hours of 18 October 1977 under the cover of darkness. The West German counter-terrorism unit GSG 9, with ground support from the Somali Armed Forces, stormed the aircraft, rescuing all 87 passengers and four crew members. The captain of the flight was killed by the hijackers earlier in the ordeal.",
+          "extract_html": "<p><b>Lufthansa Flight 181</b>, a Boeing 737-230C jet airliner named <i>Landshut</i>, was hijacked on 13 October 1977 by four militants of the Popular Front for the Liberation of Palestine while en route from Palma de Mallorca, Spain, to Frankfurt am Main, West Germany. The hijacking aimed to secure the release of eleven notorious Red Army Faction leaders held in West German prisons and two Palestinians held in Turkey. This event was part of the so-called German Autumn, intended to increase pressure on the West German government. The hijackers diverted the flight to several locations before ending in Mogadishu, Somalia, where the crisis concluded in the early morning hours of 18 October 1977 under the cover of darkness. The West German counter-terrorism unit GSG 9, with ground support from the Somali Armed Forces, stormed the aircraft, rescuing all 87 passengers and four crew members. The captain of the flight was killed by the hijackers earlier in the ordeal.</p>",
+          "normalizedtitle": "Lufthansa Flight 181"
+        },
+        {
+          "type": "standard",
+          "title": "Popular_Front_for_the_Liberation_of_Palestine",
+          "displaytitle": "<span class=\"mw-page-title-main\">Popular Front for the Liberation of Palestine</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q212884",
+          "titles": {
+            "canonical": "Popular_Front_for_the_Liberation_of_Palestine",
+            "normalized": "Popular Front for the Liberation of Palestine",
+            "display": "<span class=\"mw-page-title-main\">Popular Front for the Liberation of Palestine</span>"
+          },
+          "pageid": 39490756,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/en/9/92/Logo_of_PFLP.png",
+            "width": 316,
+            "height": 316
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/en/9/92/Logo_of_PFLP.png",
+            "width": 316,
+            "height": 316
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345046471",
+          "tid": "0d3f10bd-271c-11f1-b9c8-35f9dbc28c45",
+          "timestamp": "2026-03-24T00:54:46Z",
+          "description": "Palestinian Marxist–Leninist organization",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine",
+              "revisions": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Popular_Front_for_the_Liberation_of_Palestine"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Popular_Front_for_the_Liberation_of_Palestine",
+              "edit": "https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Popular_Front_for_the_Liberation_of_Palestine"
+            }
+          },
+          "extract": "The Popular Front for the Liberation of Palestine is a Palestinian Marxist–Leninist organization founded in 1967 by George Habash. It has consistently been the second-largest of the groups forming the Palestine Liberation Organization (PLO), the largest being Fatah.",
+          "extract_html": "<p>The <b>Popular Front for the Liberation of Palestine</b> is a Palestinian Marxist–Leninist organization founded in 1967 by George Habash. It has consistently been the second-largest of the groups forming the Palestine Liberation Organization (PLO), the largest being Fatah.</p>",
+          "normalizedtitle": "Popular Front for the Liberation of Palestine"
+        }
+      ],
+      "year": 1977
+    },
+    {
+      "text": "The first electron micrograph of an Ebola virus is taken at the Centers for Disease Control and Prevention by Dr. F. A. Murphy.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Micrograph",
+          "displaytitle": "<span class=\"mw-page-title-main\">Micrograph</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q124816516",
+          "titles": {
+            "canonical": "Micrograph",
+            "normalized": "Micrograph",
+            "display": "<span class=\"mw-page-title-main\">Micrograph</span>"
+          },
+          "pageid": 1391856,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WVSOM_Meissner%27s_corpuslce.JPG/330px-WVSOM_Meissner%27s_corpuslce.JPG",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/WVSOM_Meissner%27s_corpuslce.JPG",
+            "width": 2816,
+            "height": 2112
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345810023",
+          "tid": "487a6f2f-2a8b-11f1-a7b3-d0e9709eb3c7",
+          "timestamp": "2026-03-28T09:48:33Z",
+          "description": "Process for producing pictures with a microscope",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Micrograph",
+              "revisions": "https://en.wikipedia.org/wiki/Micrograph?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Micrograph?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Micrograph"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Micrograph",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Micrograph",
+              "edit": "https://en.wikipedia.org/wiki/Micrograph?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Micrograph"
+            }
+          },
+          "extract": "A micrograph is an image, captured photographically or digitally, taken through a microscope or similar device to show a magnified image of an object. This is opposed to a macrograph or photomacrograph, an image which is also taken on a microscope but is only slightly magnified, usually less than 10 times. Micrography is the practice or art of using microscopes to make photographs. A photographic micrograph is a photomicrograph, and one taken with an electron microscope is an electron micrograph.",
+          "extract_html": "<p>A <b>micrograph</b> is an image, captured photographically or digitally, taken through a microscope or similar device to show a magnified image of an object. This is opposed to a macrograph or photomacrograph, an image which is also taken on a microscope but is only slightly magnified, usually less than 10 times. <b>Micrography</b> is the practice or art of using microscopes to make photographs. A photographic micrograph is a <b>photomicrograph</b>, and one taken with an electron microscope is an <b>electron micrograph</b>.</p>",
+          "normalizedtitle": "Micrograph"
+        },
+        {
+          "type": "standard",
+          "title": "Centers_for_Disease_Control_and_Prevention",
+          "displaytitle": "<span class=\"mw-page-title-main\">Centers for Disease Control and Prevention</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q583725",
+          "titles": {
+            "canonical": "Centers_for_Disease_Control_and_Prevention",
+            "normalized": "Centers for Disease Control and Prevention",
+            "display": "<span class=\"mw-page-title-main\">Centers for Disease Control and Prevention</span>"
+          },
+          "pageid": 6811,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CDC_logo_2024.svg/330px-CDC_logo_2024.svg.png",
+            "width": 330,
+            "height": 259
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CDC_logo_2024.svg/500px-CDC_logo_2024.svg.png",
+            "width": 336,
+            "height": 264
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346824088",
+          "tid": "d931ce3e-2f13-11f1-be32-2154474f8e02",
+          "timestamp": "2026-04-03T04:16:12Z",
+          "description": "United States government public health agency",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 33.79944444,
+            "lon": -84.32833333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
+              "revisions": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Centers_for_Disease_Control_and_Prevention"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Centers_for_Disease_Control_and_Prevention",
+              "edit": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Centers_for_Disease_Control_and_Prevention"
+            }
+          },
+          "extract": "The Centers for Disease Control and Prevention (CDC) is the national public health agency of the United States. It is a United States federal agency under the Department of Health and Human Services (HHS), and is headquartered in Atlanta, Georgia.",
+          "extract_html": "<p>The <b>Centers for Disease Control and Prevention</b> (<b>CDC</b>) is the national public health agency of the United States. It is a United States federal agency under the Department of Health and Human Services (HHS), and is headquartered in Atlanta, Georgia.</p>",
+          "normalizedtitle": "Centers for Disease Control and Prevention"
+        },
+        {
+          "type": "standard",
+          "title": "F._A._Murphy",
+          "displaytitle": "<span class=\"mw-page-title-main\">F. A. Murphy</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q5423807",
+          "titles": {
+            "canonical": "F._A._Murphy",
+            "normalized": "F. A. Murphy",
+            "display": "<span class=\"mw-page-title-main\">F. A. Murphy</span>"
+          },
+          "pageid": 13746744,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1276527592",
+          "tid": "250beab6-eeaf-11ef-8271-470a0fbb18c5",
+          "timestamp": "2025-02-19T10:49:08Z",
+          "description": "American virologist",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/F._A._Murphy",
+              "revisions": "https://en.wikipedia.org/wiki/F._A._Murphy?action=history",
+              "edit": "https://en.wikipedia.org/wiki/F._A._Murphy?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:F._A._Murphy"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/F._A._Murphy",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/F._A._Murphy",
+              "edit": "https://en.wikipedia.org/wiki/F._A._Murphy?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:F._A._Murphy"
+            }
+          },
+          "extract": "Frederick A. Murphy is a retired American virologist. He was a member of the team of scientists that discovered the Ebola virus at the Centers for Disease Control and Prevention (CDC), where he served as Chief of Viropathology, near Emory University in Atlanta, Georgia, in 1976, and is internationally known for his work on rabies, encephalitis and hemorrhagic fevers, with over 250 peer-reviewed journal articles. Murphy was as an electron microscopy pioneer in the field of virology, best recognized for obtaining the first electron micrograph of an Ebola viral particle at the CDC in 1976.",
+          "extract_html": "<p><b>Frederick A. Murphy</b> is a retired American virologist. He was a member of the team of scientists that discovered the Ebola virus at the Centers for Disease Control and Prevention (CDC), where he served as Chief of Viropathology, near Emory University in Atlanta, Georgia, in 1976, and is internationally known for his work on rabies, encephalitis and hemorrhagic fevers, with over 250 peer-reviewed journal articles. Murphy was as an electron microscopy pioneer in the field of virology, best recognized for obtaining the first electron micrograph of an Ebola viral particle at the CDC in 1976.</p>",
+          "normalizedtitle": "F. A. Murphy"
+        }
+      ],
+      "year": 1976
+    },
+    {
+      "text": "A Lloyd Aéreo Boliviano Boeing 707 crashes after takeoff from El Trompillo Airport in Santa Cruz de la Sierra, Bolivia, killing 91.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Lloyd_Aéreo_Boliviano",
+          "displaytitle": "<span class=\"mw-page-title-main\">Lloyd Aéreo Boliviano</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q749332",
+          "titles": {
+            "canonical": "Lloyd_Aéreo_Boliviano",
+            "normalized": "Lloyd Aéreo Boliviano",
+            "display": "<span class=\"mw-page-title-main\">Lloyd Aéreo Boliviano</span>"
+          },
+          "pageid": 162436,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lloyd_A%C3%A9reo_Boliviano_Boeing_767-300ER_CP-2426_MIA_2006-1-26.png/330px-Lloyd_A%C3%A9reo_Boliviano_Boeing_767-300ER_CP-2426_MIA_2006-1-26.png",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lloyd_A%C3%A9reo_Boliviano_Boeing_767-300ER_CP-2426_MIA_2006-1-26.png",
+            "width": 1024,
+            "height": 682
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1341319476",
+          "tid": "1623535c-164a-11f1-b66c-2e9b647af57a",
+          "timestamp": "2026-03-02T15:11:28Z",
+          "description": "Former flag carrier and principal airline of Bolivia",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano",
+              "revisions": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Lloyd_A%C3%A9reo_Boliviano"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Lloyd_A%C3%A9reo_Boliviano",
+              "edit": "https://en.wikipedia.org/wiki/Lloyd_A%C3%A9reo_Boliviano?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Lloyd_A%C3%A9reo_Boliviano"
+            }
+          },
+          "extract": "Lloyd Aéreo Boliviano (LAB), internationally known as LAB Bolivian Airlines, was the flag carrier and principal airline of Bolivia for much of the 20th century. It was founded on 15 September 1925 by a consortium of German-Bolivian residents and began commercial flights on 24 September between Cochabamba and Santa Cruz using a Junkers F 13.",
+          "extract_html": "<p><b>Lloyd Aéreo Boliviano</b> (<b>LAB</b>), internationally known as <b>LAB Bolivian Airlines</b>, was the flag carrier and principal airline of Bolivia for much of the 20th century. It was founded on 15 September 1925 by a consortium of German-Bolivian residents and began commercial flights on 24 September between Cochabamba and Santa Cruz using a Junkers F 13.</p>",
+          "normalizedtitle": "Lloyd Aéreo Boliviano"
+        },
+        {
+          "type": "standard",
+          "title": "Boeing_707",
+          "displaytitle": "<span class=\"mw-page-title-main\">Boeing 707</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q6394",
+          "titles": {
+            "canonical": "Boeing_707",
+            "normalized": "Boeing 707",
+            "display": "<span class=\"mw-page-title-main\">Boeing 707</span>"
+          },
+          "pageid": 67409,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boeing_707-321B_Pan_Am_Freer.jpg/330px-Boeing_707-321B_Pan_Am_Freer.jpg",
+            "width": 330,
+            "height": 218
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Boeing_707-321B_Pan_Am_Freer.jpg",
+            "width": 1024,
+            "height": 678
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347704256",
+          "tid": "7a59c4f7-331c-11f1-bd41-7c9c28e2cd64",
+          "timestamp": "2026-04-08T07:28:03Z",
+          "description": "Four-engined single-aisle airliner family",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Boeing_707",
+              "revisions": "https://en.wikipedia.org/wiki/Boeing_707?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Boeing_707?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Boeing_707"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Boeing_707",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Boeing_707",
+              "edit": "https://en.wikipedia.org/wiki/Boeing_707?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Boeing_707"
+            }
+          },
+          "extract": "The Boeing 707 is an early American long-range narrow-body airliner, the first jetliner developed and produced by Boeing Commercial Airplanes.\n\nDeveloped from the Boeing 367-80 prototype, the initial 707-120 first flew on December 20, 1957.\nPan Am began regular 707 service on October 26, 1958.\n\nWith versions produced until 1979, the 707 is a swept wing quadjet with podded engines. Its larger fuselage cross-section allowed six-abreast economy seating, retained in the later 720, 727, 737, and 757 models.",
+          "extract_html": "<p>The <b>Boeing 707</b> is an early American long-range narrow-body airliner, the first jetliner developed and produced by Boeing Commercial Airplanes.\n\nDeveloped from the Boeing 367-80 prototype, the initial 707-120 first flew on December 20, 1957.\nPan Am began regular 707 service on October 26, 1958.\n\nWith versions produced until 1979, the 707 is a swept wing quadjet with podded engines. Its larger fuselage cross-section allowed six-abreast economy seating, retained in the later 720, 727, 737, and 757 models.</p>",
+          "normalizedtitle": "Boeing 707"
+        },
+        {
+          "type": "standard",
+          "title": "1976_Lloyd_Aéreo_Boliviano_Boeing_707_crash",
+          "displaytitle": "<span class=\"mw-page-title-main\">1976 Lloyd Aéreo Boliviano Boeing 707 crash</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q18466708",
+          "titles": {
+            "canonical": "1976_Lloyd_Aéreo_Boliviano_Boeing_707_crash",
+            "normalized": "1976 Lloyd Aéreo Boliviano Boeing 707 crash",
+            "display": "<span class=\"mw-page-title-main\">1976 Lloyd Aéreo Boliviano Boeing 707 crash</span>"
+          },
+          "pageid": 69559191,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/N730JP_Boeing_707-131F_Jet_Power_Inc%2C_28_May_1976.jpg/330px-N730JP_Boeing_707-131F_Jet_Power_Inc%2C_28_May_1976.jpg",
+            "width": 330,
+            "height": 223
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/N730JP_Boeing_707-131F_Jet_Power_Inc%2C_28_May_1976.jpg",
+            "width": 1920,
+            "height": 1299
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345311748",
+          "tid": "20e8945e-284a-11f1-b497-64f52a260b78",
+          "timestamp": "2026-03-25T12:57:07Z",
+          "description": "Deadliest plane crash in Bolivia",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash",
+              "revisions": "https://en.wikipedia.org/wiki/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash?action=history",
+              "edit": "https://en.wikipedia.org/wiki/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash",
+              "edit": "https://en.wikipedia.org/wiki/1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1976_Lloyd_A%C3%A9reo_Boliviano_Boeing_707_crash"
+            }
+          },
+          "extract": "On 13 October 1976, a Boeing 707-131F, a chartered cargo aircraft operated for Lloyd Aéreo Boliviano (LAB) crashed shortly after takeoff at El Trompillo Airport, Santa Cruz de la Sierra, Bolivia, into a residential neighbourhood. All three crew on board were killed, along with 88 other fatalities on the ground, bringing the total up to 91. It is the deadliest air disaster to happen on Bolivian soil.",
+          "extract_html": "<p>On 13 October 1976, a Boeing 707-131F, a chartered cargo aircraft operated for Lloyd Aéreo Boliviano (LAB) crashed shortly after takeoff at El Trompillo Airport, Santa Cruz de la Sierra, Bolivia, into a residential neighbourhood. All three crew on board were killed, along with 88 other fatalities on the ground, bringing the total up to 91. It is the deadliest air disaster to happen on Bolivian soil.</p>",
+          "normalizedtitle": "1976 Lloyd Aéreo Boliviano Boeing 707 crash"
+        },
+        {
+          "type": "standard",
+          "title": "El_Trompillo_Airport",
+          "displaytitle": "<span class=\"mw-page-title-main\">El Trompillo Airport</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2875728",
+          "titles": {
+            "canonical": "El_Trompillo_Airport",
+            "normalized": "El Trompillo Airport",
+            "display": "<span class=\"mw-page-title-main\">El Trompillo Airport</span>"
+          },
+          "pageid": 14001832,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aeropuerto_El_Trompillo%2C_Bolivia.jpg/330px-Aeropuerto_El_Trompillo%2C_Bolivia.jpg",
+            "width": 330,
+            "height": 187
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aeropuerto_El_Trompillo%2C_Bolivia.jpg",
+            "width": 1965,
+            "height": 1113
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1331676446",
+          "tid": "4e2a8eac-ebe3-11f0-b7ee-402fc1224eb4",
+          "timestamp": "2026-01-07T16:09:55Z",
+          "description": "Airport serving Santa Cruz de la Sierra, Bolivia",
+          "description_source": "local",
+          "coordinates": {
+            "lat": -17.81138889,
+            "lon": -63.17138889
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/El_Trompillo_Airport",
+              "revisions": "https://en.wikipedia.org/wiki/El_Trompillo_Airport?action=history",
+              "edit": "https://en.wikipedia.org/wiki/El_Trompillo_Airport?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:El_Trompillo_Airport"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/El_Trompillo_Airport",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/El_Trompillo_Airport",
+              "edit": "https://en.wikipedia.org/wiki/El_Trompillo_Airport?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:El_Trompillo_Airport"
+            }
+          },
+          "extract": "El Trompillo Airport is located in the south part of Santa Cruz, Bolivia, about 2 km away from the central plaza.",
+          "extract_html": "<p><b>El Trompillo Airport</b> is located in the south part of Santa Cruz, Bolivia, about 2 km away from the central plaza.</p>",
+          "normalizedtitle": "El Trompillo Airport"
+        },
+        {
+          "type": "standard",
+          "title": "Santa_Cruz_de_la_Sierra",
+          "displaytitle": "<span class=\"mw-page-title-main\">Santa Cruz de la Sierra</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q170688",
+          "titles": {
+            "canonical": "Santa_Cruz_de_la_Sierra",
+            "normalized": "Santa Cruz de la Sierra",
+            "display": "<span class=\"mw-page-title-main\">Santa Cruz de la Sierra</span>"
+          },
+          "pageid": 673987,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Santa_Cruz_de_la_Sierra_3.jpg/330px-Santa_Cruz_de_la_Sierra_3.jpg",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Santa_Cruz_de_la_Sierra_3.jpg",
+            "width": 4096,
+            "height": 3072
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1344543987",
+          "tid": "15554170-24cd-11f1-ab27-4468bd7f0dbf",
+          "timestamp": "2026-03-21T02:24:27Z",
+          "description": "Most populous city in Bolivia",
+          "description_source": "local",
+          "coordinates": {
+            "lat": -17.8,
+            "lon": -63.18333333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra",
+              "revisions": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Santa_Cruz_de_la_Sierra"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Santa_Cruz_de_la_Sierra",
+              "edit": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Santa_Cruz_de_la_Sierra"
+            }
+          },
+          "extract": "Santa Cruz de la Sierra, commonly known as Santa Cruz, is the largest city in Bolivia and the capital of the Santa Cruz department.",
+          "extract_html": "<p><b>Santa Cruz de la Sierra</b>, commonly known as <b>Santa Cruz</b>, is the largest city in Bolivia and the capital of the Santa Cruz department.</p>",
+          "normalizedtitle": "Santa Cruz de la Sierra"
+        }
+      ],
+      "year": 1976
+    },
+    {
+      "text": "Aeroflot Flight 217 crashes outside Moscow, killing 174.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Aeroflot_Flight_217",
+          "displaytitle": "<span class=\"mw-page-title-main\">Aeroflot Flight 217</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q4688260",
+          "titles": {
+            "canonical": "Aeroflot_Flight_217",
+            "normalized": "Aeroflot Flight 217",
+            "display": "<span class=\"mw-page-title-main\">Aeroflot Flight 217</span>"
+          },
+          "pageid": 36620284,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/CCCP-86671_Ilyushin_Il-62_Aeroflot%2C_Leonardo_da_Vinci_Airport%2C_August_1972.jpg/330px-CCCP-86671_Ilyushin_Il-62_Aeroflot%2C_Leonardo_da_Vinci_Airport%2C_August_1972.jpg",
+            "width": 330,
+            "height": 222
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/CCCP-86671_Ilyushin_Il-62_Aeroflot%2C_Leonardo_da_Vinci_Airport%2C_August_1972.jpg",
+            "width": 1195,
+            "height": 803
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347551753",
+          "tid": "80df3251-3271-11f1-a587-f27316506eb3",
+          "timestamp": "2026-04-07T11:04:10Z",
+          "description": "1972 plane crash in Moscow, Russia",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 56.07777778,
+            "lon": 37.41
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Aeroflot_Flight_217",
+              "revisions": "https://en.wikipedia.org/wiki/Aeroflot_Flight_217?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Aeroflot_Flight_217?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Aeroflot_Flight_217"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Aeroflot_Flight_217",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Aeroflot_Flight_217",
+              "edit": "https://en.wikipedia.org/wiki/Aeroflot_Flight_217?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Aeroflot_Flight_217"
+            }
+          },
+          "extract": "Aeroflot Flight 217 was a non-scheduled international passenger flight from Orly Airport in Paris to Sheremetyevo International Airport in Moscow, with a stopover at Shosseynaya Airport in Leningrad. On 13 October 1972, the Ilyushin Il-62 airliner operating the flight crashed on approach to Sheremetyevo, with the loss of all 164 passengers and crew of 10. At the time, it was the world's deadliest civil aviation disaster, until it was surpassed by the Kano air disaster in Nigeria in 1973. As of 2026, the crash of Flight 217 remains the second-deadliest accident involving an Il-62, after LOT Polish Airlines Flight 5055, and the second-deadliest on Russian soil, after Aeroflot Flight 3352.",
+          "extract_html": "<p><b>Aeroflot Flight 217</b> was a non-scheduled international passenger flight from Orly Airport in Paris to Sheremetyevo International Airport in Moscow, with a stopover at Shosseynaya Airport in Leningrad. On 13 October 1972, the Ilyushin Il-62 airliner operating the flight crashed on approach to Sheremetyevo, with the loss of all 164 passengers and crew of 10. At the time, it was the world's deadliest civil aviation disaster, until it was surpassed by the Kano air disaster in Nigeria in 1973. As of 2026, the crash of Flight 217 remains the second-deadliest accident involving an Il-62, after LOT Polish Airlines Flight 5055, and the second-deadliest on Russian soil, after Aeroflot Flight 3352.</p>",
+          "normalizedtitle": "Aeroflot Flight 217"
+        }
+      ],
+      "year": 1972
+    },
+    {
+      "text": "Uruguayan Air Force Flight 571 crashes in the Andes mountains. Twenty-eight survive the crash. All but 16 succumb before rescue on December 23.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Uruguayan_Air_Force_Flight_571",
+          "displaytitle": "<span class=\"mw-page-title-main\">Uruguayan Air Force Flight 571</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q737967",
+          "titles": {
+            "canonical": "Uruguayan_Air_Force_Flight_571",
+            "normalized": "Uruguayan Air Force Flight 571",
+            "display": "<span class=\"mw-page-title-main\">Uruguayan Air Force Flight 571</span>"
+          },
+          "pageid": 738736,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Restos_del_vuelo_571.jpg/330px-Restos_del_vuelo_571.jpg",
+            "width": 330,
+            "height": 247
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Restos_del_vuelo_571.jpg",
+            "width": 1822,
+            "height": 1366
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1344688984",
+          "tid": "9c1824af-2582-11f1-9fe2-c541c0283571",
+          "timestamp": "2026-03-22T00:03:52Z",
+          "description": "1972 aviation accident in the Andes mountains of Argentina",
+          "description_source": "local",
+          "coordinates": {
+            "lat": -34.76486111,
+            "lon": -70.28516667
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571",
+              "revisions": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Uruguayan_Air_Force_Flight_571"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Uruguayan_Air_Force_Flight_571",
+              "edit": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Uruguayan_Air_Force_Flight_571"
+            }
+          },
+          "extract": "Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the Andes flight disaster and the Miracle of the Andes.",
+          "extract_html": "<p><b>Uruguayan Air Force Flight 571</b> was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains in Argentina on 13 October 1972. The accident and subsequent survival became known as both the <b>Andes flight disaster</b> and the <b>Miracle of the Andes</b>.</p>",
+          "normalizedtitle": "Uruguayan Air Force Flight 571"
+        }
+      ],
+      "year": 1972
+    },
+    {
+      "text": "The flag of Okinawa Prefecture, Japan, was officially adopted.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Flag_of_Okinawa_Prefecture",
+          "displaytitle": "<span class=\"mw-page-title-main\">Flag of Okinawa Prefecture</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q8980059",
+          "titles": {
+            "canonical": "Flag_of_Okinawa_Prefecture",
+            "normalized": "Flag of Okinawa Prefecture",
+            "display": "<span class=\"mw-page-title-main\">Flag of Okinawa Prefecture</span>"
+          },
+          "pageid": 78623075,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/330px-Flag_of_Okinawa_Prefecture.svg.png",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/960px-Flag_of_Okinawa_Prefecture.svg.png",
+            "width": 800,
+            "height": 533
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1323098540",
+          "tid": "24a2a03e-c574-11f0-bd8f-9df4ce163ea7",
+          "timestamp": "2025-11-19T18:18:27Z",
+          "description": "Japanese prefectural flag",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture",
+              "revisions": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Flag_of_Okinawa_Prefecture"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Flag_of_Okinawa_Prefecture",
+              "edit": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Flag_of_Okinawa_Prefecture"
+            }
+          },
+          "extract": "The flag of Okinawa Prefecture  is a white field charged in the center with the prefectural emblem, which consists of three circles stacked on top of each other. The two inner circles are positioned upwards; the outermost and innermost circles are red and the middle circle is white. The emblem was adopted on May 15, 1972, when the United States ended its administration of the Ryukyu Islands and returned Okinawa Prefecture to Japan. The flag was adopted shortly afterward on October 13, 1972.",
+          "extract_html": "<p>The <b>flag of Okinawa Prefecture</b><span style=\"font-weight:normal\"> </span> is a white field charged in the center with the prefectural emblem, which consists of three circles stacked on top of each other. The two inner circles are positioned upwards; the outermost and innermost circles are red and the middle circle is white. The emblem was adopted on May 15, 1972, when the United States ended its administration of the Ryukyu Islands and returned Okinawa Prefecture to Japan. The flag was adopted shortly afterward on October 13, 1972.</p>",
+          "normalizedtitle": "Flag of Okinawa Prefecture"
+        }
+      ],
+      "year": 1972
+    },
+    {
+      "text": "The Pacific Northwest experiences a cyclone the equal of a Category 3 hurricane, with winds above 150 mph. Forty-six people die.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Columbus_Day_storm_of_1962",
+          "displaytitle": "<span class=\"mw-page-title-main\">Columbus Day storm of 1962</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3517855",
+          "titles": {
+            "canonical": "Columbus_Day_storm_of_1962",
+            "normalized": "Columbus Day storm of 1962",
+            "display": "<span class=\"mw-page-title-main\">Columbus Day storm of 1962</span>"
+          },
+          "pageid": 1200154,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Columbus_Day_Storm_1962-10-13_weather_map.png/330px-Columbus_Day_Storm_1962-10-13_weather_map.png",
+            "width": 330,
+            "height": 404
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Columbus_Day_Storm_1962-10-13_weather_map.png",
+            "width": 666,
+            "height": 815
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1337488465",
+          "tid": "dc829cf8-05f1-11f1-b446-fe2259f761a9",
+          "timestamp": "2026-02-09T19:59:37Z",
+          "description": "Pacific Northwest windstorm",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Columbus_Day_storm_of_1962",
+              "revisions": "https://en.wikipedia.org/wiki/Columbus_Day_storm_of_1962?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Columbus_Day_storm_of_1962?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Columbus_Day_storm_of_1962"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Columbus_Day_storm_of_1962",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Columbus_Day_storm_of_1962",
+              "edit": "https://en.wikipedia.org/wiki/Columbus_Day_storm_of_1962?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Columbus_Day_storm_of_1962"
+            }
+          },
+          "extract": "The Columbus Day storm of 1962 was a Pacific Northwest windstorm that struck the West Coast of Canada and the Pacific Northwest coast of the United States on October 12, 1962. Typhoon Freda was the twenty-eighth tropical depression, the twenty-third tropical storm, and the eighteenth typhoon of the 1962 Pacific typhoon season. Freda originated from a tropical disturbance over the Northwest Pacific on September 28. On October 3, the system strengthened into a tropical storm and was given the name Freda, before becoming a typhoon later that day, while moving northeastward. The storm quickly intensified, reaching its peak as a Category 3-equivalent typhoon on October 5, with maximum 1-minute sustained winds of 115 mph (185 km/h) and a minimum central pressure of 948 millibars (28.0 inHg). Freda maintained its intensity for another day, before beginning to gradually weaken, later on October 6. On October 9, Freda weakened into a tropical storm, before transitioning into an extratropical cyclone on the next day. On October 11, Freda turned eastward and accelerated across the North Pacific, before striking the Pacific Northwest on the next day. On October 13, the cyclone made landfall on Washington and Vancouver Island, and then curved northwestward. Afterward, the system moved into Canada and weakened, before being absorbed by another developing storm to the south on October 17.",
+          "extract_html": "<p>The <b>Columbus Day storm of 1962</b> was a Pacific Northwest windstorm that struck the West Coast of Canada and the Pacific Northwest coast of the United States on October 12, 1962. Typhoon Freda was the twenty-eighth tropical depression, the twenty-third tropical storm, and the eighteenth typhoon of the 1962 Pacific typhoon season. Freda originated from a tropical disturbance over the Northwest Pacific on September 28. On October 3, the system strengthened into a tropical storm and was given the name <i>Freda</i>, before becoming a typhoon later that day, while moving northeastward. The storm quickly intensified, reaching its peak as a Category 3-equivalent typhoon on October 5, with maximum 1-minute sustained winds of 115 mph (185 km/h) and a minimum central pressure of 948 millibars (28.0 inHg). Freda maintained its intensity for another day, before beginning to gradually weaken, later on October 6. On October 9, Freda weakened into a tropical storm, before transitioning into an extratropical cyclone on the next day. On October 11, Freda turned eastward and accelerated across the North Pacific, before striking the Pacific Northwest on the next day. On October 13, the cyclone made landfall on Washington and Vancouver Island, and then curved northwestward. Afterward, the system moved into Canada and weakened, before being absorbed by another developing storm to the south on October 17.</p>",
+          "normalizedtitle": "Columbus Day storm of 1962"
+        }
+      ],
+      "year": 1962
+    },
+    {
+      "text": "France adopts the constitution of the Fourth Republic.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "October_1946_French_constitutional_referendum",
+          "displaytitle": "<span class=\"mw-page-title-main\">October 1946 French constitutional referendum</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q4492484",
+          "titles": {
+            "canonical": "October_1946_French_constitutional_referendum",
+            "normalized": "October 1946 French constitutional referendum",
+            "display": "<span class=\"mw-page-title-main\">October 1946 French constitutional referendum</span>"
+          },
+          "pageid": 11678400,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1273430046",
+          "tid": "1a70f7e3-e132-11ef-815d-df09cb561658",
+          "timestamp": "2025-02-02T06:51:18Z",
+          "description": "Referendum on the adoption of the French Fourth Republic constitution; passed",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/October_1946_French_constitutional_referendum",
+              "revisions": "https://en.wikipedia.org/wiki/October_1946_French_constitutional_referendum?action=history",
+              "edit": "https://en.wikipedia.org/wiki/October_1946_French_constitutional_referendum?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:October_1946_French_constitutional_referendum"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/October_1946_French_constitutional_referendum",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/October_1946_French_constitutional_referendum",
+              "edit": "https://en.wikipedia.org/wiki/October_1946_French_constitutional_referendum?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:October_1946_French_constitutional_referendum"
+            }
+          },
+          "extract": "A constitutional referendum was held in France on 13 October 1946. Voters were asked whether they approved of a new constitution proposed by the Constituent Assembly elected in June. Unlike the May referendum, which saw a previous constitutional proposal rejected, the new Constitution of 27 October 1946 was accepted by 53% of voters, and brought the Fourth Republic into existence. Voter turnout was 68%.",
+          "extract_html": "<p>A constitutional referendum was held in France on 13 October 1946. Voters were asked whether they approved of a new constitution proposed by the Constituent Assembly elected in June. Unlike the May referendum, which saw a previous constitutional proposal rejected, the new Constitution of 27 October 1946 was accepted by 53% of voters, and brought the Fourth Republic into existence. Voter turnout was 68%.</p>",
+          "normalizedtitle": "October 1946 French constitutional referendum"
+        },
+        {
+          "type": "standard",
+          "title": "French_Fourth_Republic",
+          "displaytitle": "<span class=\"mw-page-title-main\">French Fourth Republic</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q69829",
+          "titles": {
+            "canonical": "French_Fourth_Republic",
+            "normalized": "French Fourth Republic",
+            "display": "<span class=\"mw-page-title-main\">French Fourth Republic</span>"
+          },
+          "pageid": 335804,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/960px-Flag_of_France.svg.png",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1338870392",
+          "tid": "082904c2-0c32-11f1-90f8-dcea3fd81adb",
+          "timestamp": "2026-02-17T18:54:05Z",
+          "description": "Government of France from 1946 to 1958",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/French_Fourth_Republic",
+              "revisions": "https://en.wikipedia.org/wiki/French_Fourth_Republic?action=history",
+              "edit": "https://en.wikipedia.org/wiki/French_Fourth_Republic?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:French_Fourth_Republic"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/French_Fourth_Republic",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/French_Fourth_Republic",
+              "edit": "https://en.wikipedia.org/wiki/French_Fourth_Republic?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:French_Fourth_Republic"
+            }
+          },
+          "extract": "The French Fourth Republic was the republican government of France from 27 October 1946 to 4 October 1958, governed by the fourth republican constitution of 13 October 1946. Essentially a reestablishment and continuation of the French Third Republic which governed from 1870 during the Franco-Prussian War to 1940 during World War II, it suffered many of the same problems which led to its end. The French Fourth Republic was a parliamentary republic.",
+          "extract_html": "<p>The <b>French Fourth Republic</b> was the republican government of France from 27 October 1946 to 4 October 1958, governed by the fourth republican constitution of 13 October 1946. Essentially a reestablishment and continuation of the French Third Republic which governed from 1870 during the Franco-Prussian War to 1940 during World War II, it suffered many of the same problems which led to its end. The French Fourth Republic was a parliamentary republic.</p>",
+          "normalizedtitle": "French Fourth Republic"
+        }
+      ],
+      "year": 1946
+    },
+    {
+      "text": "World War II: The Soviet Riga Offensive captures the city.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Riga_offensive_(1944)",
+          "displaytitle": "<span class=\"mw-page-title-main\">Riga offensive (1944)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2662170",
+          "titles": {
+            "canonical": "Riga_offensive_(1944)",
+            "normalized": "Riga offensive (1944)",
+            "display": "<span class=\"mw-page-title-main\">Riga offensive (1944)</span>"
+          },
+          "pageid": 17036003,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BALTICO_RIGA.jpg/330px-BALTICO_RIGA.jpg",
+            "width": 330,
+            "height": 405
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/BALTICO_RIGA.jpg",
+            "width": 894,
+            "height": 1096
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345743906",
+          "tid": "96608b29-2a2d-11f1-a661-81a3fb6a6edc",
+          "timestamp": "2026-03-27T22:37:51Z",
+          "description": "Soviet offensive against Nazi Germany during World War II",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 56.96666667,
+            "lon": 24.31666667
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Riga_offensive_(1944)",
+              "revisions": "https://en.wikipedia.org/wiki/Riga_offensive_(1944)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Riga_offensive_(1944)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Riga_offensive_(1944)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Riga_offensive_(1944)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Riga_offensive_(1944)",
+              "edit": "https://en.wikipedia.org/wiki/Riga_offensive_(1944)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Riga_offensive_(1944)"
+            }
+          },
+          "extract": "The Riga offensive was part of the larger Baltic offensive on the Eastern Front during World War II. It took place late in 1944, and drove German forces from the city of Riga.",
+          "extract_html": "<p>The <b>Riga offensive</b> was part of the larger Baltic offensive on the Eastern Front during World War II. It took place late in 1944, and drove German forces from the city of Riga.</p>",
+          "normalizedtitle": "Riga offensive (1944)"
+        }
+      ],
+      "year": 1944
+    },
+    {
+      "text": "World War II: Marshal Pietro Badoglio announces that Italy has officially declared war on Germany.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Pietro_Badoglio",
+          "displaytitle": "<span class=\"mw-page-title-main\">Pietro Badoglio</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q200085",
+          "titles": {
+            "canonical": "Pietro_Badoglio",
+            "normalized": "Pietro Badoglio",
+            "display": "<span class=\"mw-page-title-main\">Pietro Badoglio</span>"
+          },
+          "pageid": 244600,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pietro_Badoglio_3.jpg",
+            "width": 260,
+            "height": 363
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pietro_Badoglio_3.jpg",
+            "width": 260,
+            "height": 363
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347309424",
+          "tid": "81c776ca-3146-11f1-9e3d-0a52868e2574",
+          "timestamp": "2026-04-05T23:23:52Z",
+          "description": "Italian military officer (1871–1956)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Pietro_Badoglio",
+              "revisions": "https://en.wikipedia.org/wiki/Pietro_Badoglio?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Pietro_Badoglio?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Pietro_Badoglio"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Pietro_Badoglio",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Pietro_Badoglio",
+              "edit": "https://en.wikipedia.org/wiki/Pietro_Badoglio?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Pietro_Badoglio"
+            }
+          },
+          "extract": "Pietro Badoglio, 1st Duke of Addis Abeba, 1st Marquess of Sabotino, was an Italian general during both world wars and the first viceroy of Italian East Africa. With the fall of the Fascist regime, he became Prime Minister of Italy.",
+          "extract_html": "<p><b>Pietro Badoglio, 1st Duke of Addis Abeba, 1st Marquess of Sabotino</b>, was an Italian general during both world wars and the first viceroy of Italian East Africa. With the fall of the Fascist regime, he became Prime Minister of Italy.</p>",
+          "normalizedtitle": "Pietro Badoglio"
+        }
+      ],
+      "year": 1943
+    },
+    {
+      "text": "Ankara becomes the capital of Turkey.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Ankara",
+          "displaytitle": "<span class=\"mw-page-title-main\">Ankara</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3640",
+          "titles": {
+            "canonical": "Ankara",
+            "normalized": "Ankara",
+            "display": "<span class=\"mw-page-title-main\">Ankara</span>"
+          },
+          "pageid": 802,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/330px-Ankara_from_bus_station.jpg",
+            "width": 330,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankara_from_bus_station.jpg",
+            "width": 3883,
+            "height": 2508
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347565270",
+          "tid": "b9d3d267-3282-11f1-a3cf-04a4eaa9037f",
+          "timestamp": "2026-04-07T13:07:27Z",
+          "description": "Capital of Turkey",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 39.92888889,
+            "lon": 32.85472222
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Ankara",
+              "revisions": "https://en.wikipedia.org/wiki/Ankara?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Ankara?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ankara"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Ankara",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Ankara",
+              "edit": "https://en.wikipedia.org/wiki/Ankara?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ankara"
+            }
+          },
+          "extract": "Ankara is the capital city of Turkey. Located in the central part of Anatolia, the city has a population of over 5.3 million residents in its urban center, out of 6 million residents in Ankara Province. Ankara is Turkey's second-largest city by population after Istanbul.",
+          "extract_html": "<p><b>Ankara</b> is the capital city of Turkey. Located in the central part of Anatolia, the city has a population of over 5.3 million residents in its urban center, out of 6 million residents in Ankara Province. Ankara is Turkey's second-largest city by population after Istanbul.</p>",
+          "normalizedtitle": "Ankara"
+        }
+      ],
+      "year": 1923
+    },
+    {
+      "text": "Soviet republics sign the Treaty of Kars to formalize the borders between Turkey and the South Caucasus states.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Treaty_of_Kars",
+          "displaytitle": "<span class=\"mw-page-title-main\">Treaty of Kars</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q935881",
+          "titles": {
+            "canonical": "Treaty_of_Kars",
+            "normalized": "Treaty of Kars",
+            "display": "<span class=\"mw-page-title-main\">Treaty of Kars</span>"
+          },
+          "pageid": 2417051,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/1921_Treaty_of_Kars_map.png/330px-1921_Treaty_of_Kars_map.png",
+            "width": 330,
+            "height": 204
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/1921_Treaty_of_Kars_map.png",
+            "width": 2114,
+            "height": 1308
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345084284",
+          "tid": "99fec5ff-2746-11f1-ae7e-7b91133389dd",
+          "timestamp": "2026-03-24T05:59:21Z",
+          "description": "1921 peace treaty",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Treaty_of_Kars",
+              "revisions": "https://en.wikipedia.org/wiki/Treaty_of_Kars?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Treaty_of_Kars?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Treaty_of_Kars"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Treaty_of_Kars",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Treaty_of_Kars",
+              "edit": "https://en.wikipedia.org/wiki/Treaty_of_Kars?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Treaty_of_Kars"
+            }
+          },
+          "extract": "The Treaty of Kars was a treaty that established the borders between Turkey and the three Transcaucasian Soviet republics, which are now the independent republics of Armenia, Georgia and Azerbaijan. The treaty was signed in the city of Kars on 13 October 1921.",
+          "extract_html": "<p>The <b>Treaty of Kars</b> was a treaty that established the borders between Turkey and the three Transcaucasian Soviet republics, which are now the independent republics of Armenia, Georgia and Azerbaijan. The treaty was signed in the city of Kars on 13 October 1921.</p>",
+          "normalizedtitle": "Treaty of Kars"
+        }
+      ],
+      "year": 1921
+    },
+    {
+      "text": "The \"Miracle of the Sun\" is witnessed by an estimated 70,000 people in the Cova da Iria in Portugal.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Miracle_of_the_Sun",
+          "displaytitle": "<span class=\"mw-page-title-main\">Miracle of the Sun</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2302161",
+          "titles": {
+            "canonical": "Miracle_of_the_Sun",
+            "normalized": "Miracle of the Sun",
+            "display": "<span class=\"mw-page-title-main\">Miracle of the Sun</span>"
+          },
+          "pageid": 3502474,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Newspaper_fatima_353.jpg/330px-Newspaper_fatima_353.jpg",
+            "width": 330,
+            "height": 507
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Newspaper_fatima_353.jpg",
+            "width": 1000,
+            "height": 1535
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1339606925",
+          "tid": "33eb0a05-0f14-11f1-88cf-4f8f226667ed",
+          "timestamp": "2026-02-21T10:58:07Z",
+          "description": "Purported miracle in 1917",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun",
+              "revisions": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Miracle_of_the_Sun"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Miracle_of_the_Sun",
+              "edit": "https://en.wikipedia.org/wiki/Miracle_of_the_Sun?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Miracle_of_the_Sun"
+            }
+          },
+          "extract": "The Miracle of the Sun, also known as the Miracle of Fátima, is a series of events reported to have occurred miraculously on 13 October 1917, attended by a large crowd who had gathered in Fátima, Portugal, in response to a prophecy made by three shepherd children, Lúcia Santos and Francisco and Jacinta Marto. The prophecy was that the Virgin Mary would appear and perform miracles on that date. Newspapers published testimony from witnesses who said that they had seen extraordinary solar activity, such as the Sun appearing to \"dance\" or zig-zag in the sky, advance towards the Earth, or emit multicolored light and radiant colors. According to these reports, the event lasted approximately ten minutes.",
+          "extract_html": "<p>The <b>Miracle of the Sun</b>, also known as the <b>Miracle of Fátima</b>, is a series of events reported to have occurred miraculously on 13 October 1917, attended by a large crowd who had gathered in Fátima, Portugal, in response to a prophecy made by three shepherd children, Lúcia Santos and Francisco and Jacinta Marto. The prophecy was that the Virgin Mary would appear and perform miracles on that date. Newspapers published testimony from witnesses who said that they had seen extraordinary solar activity, such as the Sun appearing to \"dance\" or zig-zag in the sky, advance towards the Earth, or emit multicolored light and radiant colors. According to these reports, the event lasted approximately ten minutes.</p>",
+          "normalizedtitle": "Miracle of the Sun"
+        },
+        {
+          "type": "standard",
+          "title": "Cova_da_Iria",
+          "displaytitle": "<span class=\"mw-page-title-main\">Cova da Iria</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3696292",
+          "titles": {
+            "canonical": "Cova_da_Iria",
+            "normalized": "Cova da Iria",
+            "display": "<span class=\"mw-page-title-main\">Cova da Iria</span>"
+          },
+          "pageid": 2062286,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/F%C3%A1tima_-_Portugal_%2848916886317%29.jpg/330px-F%C3%A1tima_-_Portugal_%2848916886317%29.jpg",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/F%C3%A1tima_-_Portugal_%2848916886317%29.jpg",
+            "width": 4000,
+            "height": 3000
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1324186067",
+          "tid": "afe9c88d-ca6f-11f0-9ea6-f6dca84e2a1a",
+          "timestamp": "2025-11-26T02:29:09Z",
+          "description": "Quarter in Fátima, Santarém District, Portugal",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 39.63166667,
+            "lon": -8.67333333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Cova_da_Iria",
+              "revisions": "https://en.wikipedia.org/wiki/Cova_da_Iria?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Cova_da_Iria?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Cova_da_Iria"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Cova_da_Iria",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Cova_da_Iria",
+              "edit": "https://en.wikipedia.org/wiki/Cova_da_Iria?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Cova_da_Iria"
+            }
+          },
+          "extract": "Cova da Iria is a quarter in the city and civil parish of Fátima, in Portugal. Most of the reported apparitions of the Blessed Virgin Mary to three shepherd children from the town took place here in 1917.",
+          "extract_html": "<p><b>Cova da Iria</b> is a quarter in the city and civil parish of Fátima, in Portugal. Most of the reported apparitions of the Blessed Virgin Mary to three shepherd children from the town took place here in 1917.</p>",
+          "normalizedtitle": "Cova da Iria"
+        }
+      ],
+      "year": 1917
+    },
+    {
+      "text": "First World War: The Battle of the Hohenzollern Redoubt marks the end of the Battle of Loos.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Actions_of_the_Hohenzollern_Redoubt",
+          "displaytitle": "<span class=\"mw-page-title-main\">Actions of the Hohenzollern Redoubt</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1600541",
+          "titles": {
+            "canonical": "Actions_of_the_Hohenzollern_Redoubt",
+            "normalized": "Actions of the Hohenzollern Redoubt",
+            "display": "<span class=\"mw-page-title-main\">Actions of the Hohenzollern Redoubt</span>"
+          },
+          "pageid": 5617236,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hohenzollern_Redoubt_October_1915_map.jpg/330px-Hohenzollern_Redoubt_October_1915_map.jpg",
+            "width": 330,
+            "height": 250
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hohenzollern_Redoubt_October_1915_map.jpg",
+            "width": 963,
+            "height": 730
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1323793191",
+          "tid": "170953d4-c8a9-11f0-a354-d471222e55e6",
+          "timestamp": "2025-11-23T20:15:01Z",
+          "description": "1915 engagement on the Western Front of World War I",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Actions_of_the_Hohenzollern_Redoubt",
+              "revisions": "https://en.wikipedia.org/wiki/Actions_of_the_Hohenzollern_Redoubt?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Actions_of_the_Hohenzollern_Redoubt?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Actions_of_the_Hohenzollern_Redoubt"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Actions_of_the_Hohenzollern_Redoubt",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Actions_of_the_Hohenzollern_Redoubt",
+              "edit": "https://en.wikipedia.org/wiki/Actions_of_the_Hohenzollern_Redoubt?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Actions_of_the_Hohenzollern_Redoubt"
+            }
+          },
+          "extract": "The Actions of the Hohenzollern Redoubt took place on the Western Front in World War I from 13 to 19 October 1915, at the Hohenzollern Redoubt near Auchy-les-Mines in France. In the aftermath of the Battle of Loos, the 9th (Scottish) Division captured the strongpoint and then lost it to a German counter-attack. The British attack on 13 October failed and resulted in 3,643 casualties, mostly in the first few minutes. In the History of the Great War, James Edmonds wrote that \"The fighting [from 13 to 14 October] had not improved the general situation in any way and had brought nothing but useless slaughter of infantry\".",
+          "extract_html": "<p>The <b>Actions of the Hohenzollern Redoubt</b> took place on the Western Front in World War I from 13 to 19 October 1915, at the Hohenzollern Redoubt near Auchy-les-Mines in France. In the aftermath of the Battle of Loos, the 9th (Scottish) Division captured the strongpoint and then lost it to a German counter-attack. The British attack on 13 October failed and resulted in <span class=\"nowrap\">3,643 casualties,</span> mostly in the first few minutes. In the History of the Great War, James Edmonds wrote that \"The fighting [from 13 to 14 October] had not improved the general situation in any way and had brought nothing but useless slaughter of infantry\".</p>",
+          "normalizedtitle": "Actions of the Hohenzollern Redoubt"
+        }
+      ],
+      "year": 1915
+    },
+    {
+      "text": "Prince Arthur, Duke of Connaught and Strathearn, becomes the first Governor General of Canada of royal descent.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Prince_Arthur,_Duke_of_Connaught_and_Strathearn",
+          "displaytitle": "<span class=\"mw-page-title-main\">Prince Arthur, Duke of Connaught and Strathearn</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q160558",
+          "titles": {
+            "canonical": "Prince_Arthur,_Duke_of_Connaught_and_Strathearn",
+            "normalized": "Prince Arthur, Duke of Connaught and Strathearn",
+            "display": "<span class=\"mw-page-title-main\">Prince Arthur, Duke of Connaught and Strathearn</span>"
+          },
+          "pageid": 233998,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg/330px-Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg",
+            "width": 330,
+            "height": 451
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg",
+            "width": 1125,
+            "height": 1536
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347175097",
+          "tid": "ac5ff341-30a2-11f1-a4bd-3e5ab8d41717",
+          "timestamp": "2026-04-05T03:51:06Z",
+          "description": "British prince, son of Queen Victoria (1850–1942)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn",
+              "revisions": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn",
+              "edit": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn"
+            }
+          },
+          "extract": "Prince Arthur, Duke of Connaught and Strathearn, was the seventh child and third son of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He served as Governor General of Canada, the tenth since Canadian Confederation and the only British prince to do so.",
+          "extract_html": "<p><b>Prince Arthur, Duke of Connaught and Strathearn</b>, was the seventh child and third son of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He served as Governor General of Canada, the tenth since Canadian Confederation and the only British prince to do so.</p>",
+          "normalizedtitle": "Prince Arthur, Duke of Connaught and Strathearn"
+        }
+      ],
+      "year": 1911
+    },
+    {
+      "text": "Margaret Travers Symons bursts into the UK parliament and becomes the first woman to speak there.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Margaret_Travers_Symons",
+          "displaytitle": "<span class=\"mw-page-title-main\">Margaret Travers Symons</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q57262570",
+          "titles": {
+            "canonical": "Margaret_Travers_Symons",
+            "normalized": "Margaret Travers Symons",
+            "display": "<span class=\"mw-page-title-main\">Margaret Travers Symons</span>"
+          },
+          "pageid": 58730983,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Margaret_Travers_Symons_%28cropped%29.jpg/330px-Margaret_Travers_Symons_%28cropped%29.jpg",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Margaret_Travers_Symons_%28cropped%29.jpg",
+            "width": 422,
+            "height": 422
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1317102472",
+          "tid": "088f76f1-aa75-11f0-bbc8-ebc6e2f39ead",
+          "timestamp": "2025-10-16T09:46:48Z",
+          "description": "British suffragette (born 1879)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons",
+              "revisions": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_Travers_Symons"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Margaret_Travers_Symons",
+              "edit": "https://en.wikipedia.org/wiki/Margaret_Travers_Symons?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_Travers_Symons"
+            }
+          },
+          "extract": "Margaret Ann Travers Symons was a British suffragette. On 13 October 1908, she became the first woman to speak in the House of Commons when she broke away from her escort into the debating chamber and made an exclamation to the assembly.",
+          "extract_html": "<p><b>Margaret Ann Travers Symons</b> was a British suffragette. On 13 October 1908, she became the first woman to speak in the House of Commons when she broke away from her escort into the debating chamber and made an exclamation to the assembly.</p>",
+          "normalizedtitle": "Margaret Travers Symons"
+        }
+      ],
+      "year": 1908
+    },
+    {
+      "text": "The Boston Red Sox win the first modern World Series, defeating the Pittsburgh Pirates in the eighth game.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "1903_World_Series",
+          "displaytitle": "<span class=\"mw-page-title-main\">1903 World Series</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1568891",
+          "titles": {
+            "canonical": "1903_World_Series",
+            "normalized": "1903 World Series",
+            "display": "<span class=\"mw-page-title-main\">1903 World Series</span>"
+          },
+          "pageid": 3865,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/WorldSeries1903-640.jpg/330px-WorldSeries1903-640.jpg",
+            "width": 330,
+            "height": 218
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/WorldSeries1903-640.jpg",
+            "width": 648,
+            "height": 428
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1342612860",
+          "tid": "6def29eb-1c05-11f1-a093-45852b0b9bc0",
+          "timestamp": "2026-03-09T22:15:07Z",
+          "description": "First modern Major League Baseball championship",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/1903_World_Series",
+              "revisions": "https://en.wikipedia.org/wiki/1903_World_Series?action=history",
+              "edit": "https://en.wikipedia.org/wiki/1903_World_Series?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1903_World_Series"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/1903_World_Series",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/1903_World_Series",
+              "edit": "https://en.wikipedia.org/wiki/1903_World_Series?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:1903_World_Series"
+            }
+          },
+          "extract": "The 1903 World Series was the first modern World Series to be played in Major League Baseball. It matched the American League (AL) champion Boston Americans against the National League (NL) champion Pittsburgh Pirates in a best-of-nine series, with Boston prevailing five games to three, winning the last four. This was the first major professional sports championship ever won by a Boston-based team. The first three games were played in Boston, the next four in Allegheny, and the eighth (last) game in Boston.",
+          "extract_html": "<p>The <b>1903 World Series</b> was the first modern World Series to be played in Major League Baseball. It matched the American League (AL) champion Boston Americans against the National League (NL) champion Pittsburgh Pirates in a best-of-nine series, with Boston prevailing five games to three, winning the last four. This was the first major professional sports championship ever won by a Boston-based team. The first three games were played in Boston, the next four in Allegheny, and the eighth (last) game in Boston.</p>",
+          "normalizedtitle": "1903 World Series"
+        }
+      ],
+      "year": 1903
+    },
+    {
+      "text": "Edward Emerson Barnard is first to discover a comet by photographic means.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "206P/Barnard–Boattini",
+          "displaytitle": "<span class=\"mw-page-title-main\">206P/Barnard–Boattini</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2094647",
+          "titles": {
+            "canonical": "206P/Barnard–Boattini",
+            "normalized": "206P/Barnard–Boattini",
+            "display": "<span class=\"mw-page-title-main\">206P/Barnard–Boattini</span>"
+          },
+          "pageid": 13746667,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/206P_Barnard-Boattini_on_1892-10-13.jpg",
+            "width": 159,
+            "height": 180
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/206P_Barnard-Boattini_on_1892-10-13.jpg",
+            "width": 159,
+            "height": 180
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1324840463",
+          "tid": "20d9ffaa-cd66-11f0-a670-ccefc8cae053",
+          "timestamp": "2025-11-29T20:58:17Z",
+          "description": "Periodic comet",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini",
+              "revisions": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini?action=history",
+              "edit": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:206P%2FBarnard%E2%80%93Boattini"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/206P%2FBarnard%E2%80%93Boattini",
+              "edit": "https://en.wikipedia.org/wiki/206P%2FBarnard%E2%80%93Boattini?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:206P%2FBarnard%E2%80%93Boattini"
+            }
+          },
+          "extract": "206P/Barnard–Boattini was the first comet to be discovered by photographic means. First observed by Edward Emerson Barnard in 1892, it was subsequently lost for 116 years until it was rediscovered by Andrea Boattini in 2008.",
+          "extract_html": "<p><b>206P/Barnard–Boattini</b> was the first comet to be discovered by photographic means. First observed by Edward Emerson Barnard in 1892, it was subsequently lost for 116 years until it was rediscovered by Andrea Boattini in 2008.</p>",
+          "normalizedtitle": "206P/Barnard–Boattini"
+        }
+      ],
+      "year": 1892
+    },
+    {
+      "text": "The Georgia Institute of Technology is founded in Atlanta, Georgia.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Georgia_Tech",
+          "displaytitle": "<span class=\"mw-page-title-main\">Georgia Tech</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q864855",
+          "titles": {
+            "canonical": "Georgia_Tech",
+            "normalized": "Georgia Tech",
+            "display": "<span class=\"mw-page-title-main\">Georgia Tech</span>"
+          },
+          "pageid": 28486339,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/330px-Georgia_Tech_seal.svg.png",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/960px-Georgia_Tech_seal.svg.png",
+            "width": 512,
+            "height": 512
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347698137",
+          "tid": "05818c06-3312-11f1-b2c2-6f7f4bbde84e",
+          "timestamp": "2026-04-08T06:13:12Z",
+          "description": "Public university in Atlanta, Georgia, US",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 33.776,
+            "lon": -84.396
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Georgia_Tech",
+              "revisions": "https://en.wikipedia.org/wiki/Georgia_Tech?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Georgia_Tech?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Georgia_Tech"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Georgia_Tech",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Georgia_Tech",
+              "edit": "https://en.wikipedia.org/wiki/Georgia_Tech?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Georgia_Tech"
+            }
+          },
+          "extract": "The Georgia Institute of Technology is a public research university and institute of technology in Atlanta, Georgia, United States. Established in 1885, it has the largest student enrollment of the University System of Georgia institutions, with satellite campuses in Savannah, Georgia, and Metz, France.",
+          "extract_html": "<p>The <b>Georgia Institute of Technology</b> is a public research university and institute of technology in Atlanta, Georgia, United States. Established in 1885, it has the largest student enrollment of the University System of Georgia institutions, with satellite campuses in Savannah, Georgia, and Metz, France.</p>",
+          "normalizedtitle": "Georgia Tech"
+        }
+      ],
+      "year": 1885
+    },
+    {
+      "text": "First known conversation in modern Hebrew by Eliezer Ben-Yehuda and friends.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Revival_of_the_Hebrew_language",
+          "displaytitle": "<span class=\"mw-page-title-main\">Revival of the Hebrew language</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2917554",
+          "titles": {
+            "canonical": "Revival_of_the_Hebrew_language",
+            "normalized": "Revival of the Hebrew language",
+            "display": "<span class=\"mw-page-title-main\">Revival of the Hebrew language</span>"
+          },
+          "pageid": 6744873,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HATZVI%22_%28RESPLENDENT_ISRAEL%2C_STAG%29%2C_DAILY_OF_THE_EARLY_%2220%27S%22..jpg/330px-HATZVI%22_%28RESPLENDENT_ISRAEL%2C_STAG%29%2C_DAILY_OF_THE_EARLY_%2220%27S%22..jpg",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/HATZVI%22_%28RESPLENDENT_ISRAEL%2C_STAG%29%2C_DAILY_OF_THE_EARLY_%2220%27S%22..jpg",
+            "width": 3072,
+            "height": 2048
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1338148549",
+          "tid": "a25f14c5-08e1-11f1-b00e-cde9674974bd",
+          "timestamp": "2026-02-13T13:41:01Z",
+          "description": "Process of making Hebrew a lingua franca in Israel",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language",
+              "revisions": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Revival_of_the_Hebrew_language"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Revival_of_the_Hebrew_language",
+              "edit": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Revival_of_the_Hebrew_language"
+            }
+          },
+          "extract": "The revival of the Hebrew language took place in Europe and the Southern Levant toward the end of the 19th century and into the 20th century, through which the language's usage changed from the purely sacred language of Judaism to a spoken and written language used for daily life among the Jews in Palestine, and later Israel. Eliezer Ben-Yehuda is often regarded as the \"reviver of the Hebrew language\" having been the first to raise the concept of reviving Hebrew and initiating a project known as the Ben-Yehuda Dictionary. The revitalization of Hebrew was then ultimately brought about by its usage in Jewish settlement in Ottoman Palestine that arrived in the waves of migration known as the First Aliyah and the Second Aliyah. In Mandatory Palestine, Modern Hebrew became one of three official languages and after the Israeli Declaration of Independence in 1948, one of two official languages of Israel, along with Modern Arabic. In July 2018, a new law made Hebrew the sole national language of the State of Israel, while giving Arabic a \"special status\".",
+          "extract_html": "<p>The revival of the Hebrew language took place in Europe and the Southern Levant toward the end of the 19th century and into the 20th century, through which the language's usage changed from the purely sacred language of Judaism to a spoken and written language used for daily life among the Jews in Palestine, and later Israel. Eliezer Ben-Yehuda is often regarded as the \"reviver of the Hebrew language\" having been the first to raise the concept of reviving Hebrew and initiating a project known as the Ben-Yehuda Dictionary. The revitalization of Hebrew was then ultimately brought about by its usage in Jewish settlement in Ottoman Palestine that arrived in the waves of migration known as the First Aliyah and the Second Aliyah. In Mandatory Palestine, Modern Hebrew became one of three official languages and after the Israeli Declaration of Independence in 1948, one of two official languages of Israel, along with Modern Arabic. In July 2018, a new law made Hebrew the sole national language of the State of Israel, while giving Arabic a \"special status\".</p>",
+          "normalizedtitle": "Revival of the Hebrew language"
+        },
+        {
+          "type": "standard",
+          "title": "Eliezer_Ben-Yehuda",
+          "displaytitle": "<span class=\"mw-page-title-main\">Eliezer Ben-Yehuda</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q181728",
+          "titles": {
+            "canonical": "Eliezer_Ben-Yehuda",
+            "normalized": "Eliezer Ben-Yehuda",
+            "display": "<span class=\"mw-page-title-main\">Eliezer Ben-Yehuda</span>"
+          },
+          "pageid": 486485,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Portrait_of_Eliezer_Ben-Yehuda_%28cropped%29.jpg/330px-Portrait_of_Eliezer_Ben-Yehuda_%28cropped%29.jpg",
+            "width": 330,
+            "height": 425
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Portrait_of_Eliezer_Ben-Yehuda_%28cropped%29.jpg",
+            "width": 1365,
+            "height": 1759
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346206240",
+          "tid": "bd91a4fb-2c45-11f1-95b4-62a225e5cb88",
+          "timestamp": "2026-03-30T14:35:47Z",
+          "description": "Russian-Jewish linguist and journalist (1858–1922)",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 31.77833333,
+            "lon": 35.24388889
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda",
+              "revisions": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Eliezer_Ben-Yehuda"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Eliezer_Ben-Yehuda",
+              "edit": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Eliezer_Ben-Yehuda"
+            }
+          },
+          "extract": "Eliezer Ben‑Yehuda was a Russian–Jewish linguist, lexicographer, and journalist who immigrated to Jerusalem in 1881, when the Ottoman Empire ruled it. He is renowned as the lexicographer of the first Hebrew dictionary and also as the editor of Jerusalem-based HaZvi, one of the first Hebrew newspapers published in Mandatory Palestine. Ben-Yehuda was the primary driving force behind the revival of the Hebrew language.",
+          "extract_html": "<p><b>Eliezer Ben‑Yehuda</b> was a Russian–Jewish linguist, lexicographer, and journalist who immigrated to Jerusalem in 1881, when the Ottoman Empire ruled it. He is renowned as the lexicographer of the first Hebrew dictionary and also as the editor of Jerusalem-based <i>HaZvi</i>, one of the first Hebrew newspapers published in Mandatory Palestine. Ben-Yehuda was the primary driving force behind the revival of the Hebrew language.</p>",
+          "normalizedtitle": "Eliezer Ben-Yehuda"
+        }
+      ],
+      "year": 1881
+    },
+    {
+      "text": "In New York City, B'nai B'rith, the oldest Jewish service organization in the world, is founded.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "B'nai_B'rith",
+          "displaytitle": "<span class=\"mw-page-title-main\">B&#039;nai B&#039;rith</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q248686",
+          "titles": {
+            "canonical": "B'nai_B'rith",
+            "normalized": "B'nai B'rith",
+            "display": "<span class=\"mw-page-title-main\">B&#039;nai B&#039;rith</span>"
+          },
+          "pageid": 218593,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346066329",
+          "tid": "17da282e-2ba4-11f1-9cf6-4157d80311e0",
+          "timestamp": "2026-03-29T19:18:40Z",
+          "description": "International Jewish service organization",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/B'nai_B'rith",
+              "revisions": "https://en.wikipedia.org/wiki/B'nai_B'rith?action=history",
+              "edit": "https://en.wikipedia.org/wiki/B'nai_B'rith?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:B'nai_B'rith"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/B'nai_B'rith",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/B'nai_B'rith",
+              "edit": "https://en.wikipedia.org/wiki/B'nai_B'rith?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:B'nai_B'rith"
+            }
+          },
+          "extract": "B'nai B'rith International is an American 501(c)(3) nonprofit Jewish service organization and was formerly a cultural association for German Jewish immigrants to the United States. B'nai B'rith states that it is committed to the security and continuity of the Jewish people and the State of Israel and combating antisemitism and other forms of bigotry.",
+          "extract_html": "<p><b>B'nai B'rith International</b> is an American 501(c)(3) nonprofit Jewish service organization and was formerly a cultural association for German Jewish immigrants to the United States. B'nai B'rith states that it is committed to the security and continuity of the Jewish people and the State of Israel and combating antisemitism and other forms of bigotry.</p>",
+          "normalizedtitle": "B'nai B'rith"
+        }
+      ],
+      "year": 1843
+    },
+    {
+      "text": "The Declaration of Independence of the Mexican Empire is publicly proclaimed.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Declaration_of_Independence_(Mexico)",
+          "displaytitle": "<span class=\"mw-page-title-main\">Declaration of Independence (Mexico)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1131780",
+          "titles": {
+            "canonical": "Declaration_of_Independence_(Mexico)",
+            "normalized": "Declaration of Independence (Mexico)",
+            "display": "<span class=\"mw-page-title-main\">Declaration of Independence (Mexico)</span>"
+          },
+          "pageid": 25018673,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acta_Independencia_Mexico_1821.jpg/330px-Acta_Independencia_Mexico_1821.jpg",
+            "width": 330,
+            "height": 446
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Acta_Independencia_Mexico_1821.jpg",
+            "width": 1590,
+            "height": 2150
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346262191",
+          "tid": "59d99d8a-2c82-11f1-8cd8-1db7b2f610b1",
+          "timestamp": "2026-03-30T21:49:39Z",
+          "description": "1821 document",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)",
+              "revisions": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Declaration_of_Independence_(Mexico)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Declaration_of_Independence_(Mexico)",
+              "edit": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Declaration_of_Independence_(Mexico)"
+            }
+          },
+          "extract": "The Declaration of Independence of the Mexican Empire is the document by which Mexico declared independence from Spain's Spanish Empire. This founding document of the Mexican nation was drafted in the National Palace in Mexico City on 28 September 1821, by Juan José Espinosa de los Monteros, secretary of the Provisional Governmental Board.",
+          "extract_html": "<p>The <b>Declaration of Independence of the Mexican Empire</b> is the document by which Mexico declared independence from Spain's Spanish Empire. This founding document of the Mexican nation was drafted in the National Palace in Mexico City on 28 September 1821, by Juan José Espinosa de los Monteros, secretary of the Provisional Governmental Board.</p>",
+          "normalizedtitle": "Declaration of Independence (Mexico)"
+        }
+      ],
+      "year": 1821
+    },
+    {
+      "text": "War of 1812: Sir Isaac Brock's British and native forces repel an invasion of Canada by General Rensselaer's United States forces.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Battle_of_Queenston_Heights",
+          "displaytitle": "<span class=\"mw-page-title-main\">Battle of Queenston Heights</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q200682",
+          "titles": {
+            "canonical": "Battle_of_Queenston_Heights",
+            "normalized": "Battle of Queenston Heights",
+            "display": "<span class=\"mw-page-title-main\">Battle of Queenston Heights</span>"
+          },
+          "pageid": 249637,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Push_on%2C_brave_York_volunteers%28large%29.jpg/330px-Push_on%2C_brave_York_volunteers%28large%29.jpg",
+            "width": 330,
+            "height": 249
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Push_on%2C_brave_York_volunteers%28large%29.jpg",
+            "width": 2416,
+            "height": 1820
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347139209",
+          "tid": "1f557348-307b-11f1-82c9-3cdd87bbdc70",
+          "timestamp": "2026-04-04T23:07:59Z",
+          "description": "War of 1812 battle",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 43.16194444,
+            "lon": -79.05055556
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights",
+              "revisions": "https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Battle_of_Queenston_Heights"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Battle_of_Queenston_Heights",
+              "edit": "https://en.wikipedia.org/wiki/Battle_of_Queenston_Heights?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Battle_of_Queenston_Heights"
+            }
+          },
+          "extract": "The Battle of Queenston Heights was the first major engagement of the War of 1812. The battle took place on 13 October 1812, at Queenston in Upper Canada and was a decisive British victory. United States regulars and New York militia led by Major General Stephen Van Rensselaer crossed the Niagara River from Lewiston and engaged British regulars and Canadian militia led by Major General Isaac Brock. Major General Roger Hale Sheaffe took command of British forces after Brock was killed. Mohawk warriors led by John Norton supported the British during the battle.",
+          "extract_html": "<p>The <b>Battle of Queenston Heights</b> was the first major engagement of the War of 1812. The battle took place on 13 October 1812, at Queenston in Upper Canada and was a decisive British victory. United States regulars and New York militia led by Major General Stephen Van Rensselaer crossed the Niagara River from Lewiston and engaged British regulars and Canadian militia led by Major General Isaac Brock. Major General Roger Hale Sheaffe took command of British forces after Brock was killed. Mohawk warriors led by John Norton supported the British during the battle.</p>",
+          "normalizedtitle": "Battle of Queenston Heights"
+        }
+      ],
+      "year": 1812
+    },
+    {
+      "text": "French Revolutionary Wars: Austro-Prussian victory over Republican France at the First Battle of Wissembourg.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "First_Battle_of_Wissembourg",
+          "displaytitle": "<span class=\"mw-page-title-main\">First Battle of Wissembourg</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q5452548",
+          "titles": {
+            "canonical": "First_Battle_of_Wissembourg",
+            "normalized": "First Battle of Wissembourg",
+            "display": "<span class=\"mw-page-title-main\">First Battle of Wissembourg</span>"
+          },
+          "pageid": 25227635,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wissembourg-1.jpg/330px-Wissembourg-1.jpg",
+            "width": 330,
+            "height": 229
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Wissembourg-1.jpg",
+            "width": 2529,
+            "height": 1752
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1291372104",
+          "tid": "a2322600-35b6-11f0-904b-208470f7455b",
+          "timestamp": "2025-05-20T20:11:37Z",
+          "description": "Part of the War of the First Coalition",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 49.0383,
+            "lon": 7.9469
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/First_Battle_of_Wissembourg",
+              "revisions": "https://en.wikipedia.org/wiki/First_Battle_of_Wissembourg?action=history",
+              "edit": "https://en.wikipedia.org/wiki/First_Battle_of_Wissembourg?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:First_Battle_of_Wissembourg"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/First_Battle_of_Wissembourg",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/First_Battle_of_Wissembourg",
+              "edit": "https://en.wikipedia.org/wiki/First_Battle_of_Wissembourg?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:First_Battle_of_Wissembourg"
+            }
+          },
+          "extract": "In the First Battle of Wissembourg an Allied army commanded by Dagobert Sigmund von Wurmser attacked the French Army of the Rhine under Jean Pascal Carlenc. After an ineffectual resistance, the French army abandoned its fortified line behind the Lauter River and retreated toward Strasbourg in confusion. This engagement of the War of the First Coalition occurred on the eastern border of France about 60 kilometres (37 mi) north of Strasbourg.",
+          "extract_html": "<p>In the <b>First Battle of Wissembourg</b> an Allied army commanded by Dagobert Sigmund von Wurmser attacked the French <i>Army of the Rhine</i> under Jean Pascal Carlenc. After an ineffectual resistance, the French army abandoned its fortified line behind the Lauter River and retreated toward Strasbourg in confusion. This engagement of the War of the First Coalition occurred on the eastern border of France about 60 kilometres (37 mi) north of Strasbourg.</p>",
+          "normalizedtitle": "First Battle of Wissembourg"
+        }
+      ],
+      "year": 1793
+    },
+    {
+      "text": "In Washington, D.C., the cornerstone of the United States Executive Mansion (known as the White House since 1818) is laid.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "White_House",
+          "displaytitle": "<span class=\"mw-page-title-main\">White House</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q35525",
+          "titles": {
+            "canonical": "White_House",
+            "normalized": "White House",
+            "display": "<span class=\"mw-page-title-main\">White House</span>"
+          },
+          "pageid": 33057,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/330px-White_House_north_and_south_sides.jpg",
+            "width": 330,
+            "height": 378
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_north_and_south_sides.jpg",
+            "width": 4418,
+            "height": 5056
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346441570",
+          "tid": "9e2e70f7-2d46-11f1-9293-cf698a04334b",
+          "timestamp": "2026-03-31T21:14:35Z",
+          "description": "Residence and workplace of the US president",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 38.89777778,
+            "lon": -77.03638889
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/White_House",
+              "revisions": "https://en.wikipedia.org/wiki/White_House?action=history",
+              "edit": "https://en.wikipedia.org/wiki/White_House?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:White_House"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/White_House",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/White_House",
+              "edit": "https://en.wikipedia.org/wiki/White_House?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:White_House"
+            }
+          },
+          "extract": "The White House is the official residence and workplace of the president of the United States. Located at 1600 Pennsylvania Avenue NW in Washington, D.C., it has served as the residence of every U.S. president since John Adams in 1800 when the national capital was moved from Philadelphia. The White House is also a metonym for the Executive Office of the President.",
+          "extract_html": "<p>The <b>White House</b> is the official residence and workplace of the president of the United States. Located at 1600 Pennsylvania Avenue NW in Washington, D.C., it has served as the residence of every U.S. president since John Adams in 1800 when the national capital was moved from Philadelphia. The White House is also a metonym for the Executive Office of the President.</p>",
+          "normalizedtitle": "White House"
+        }
+      ],
+      "year": 1792
+    },
+    {
+      "text": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Continental_Navy",
+          "displaytitle": "<span class=\"mw-page-title-main\">Continental Navy</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2367216",
+          "titles": {
+            "canonical": "Continental_Navy",
+            "normalized": "Continental Navy",
+            "display": "<span class=\"mw-page-title-main\">Continental Navy</span>"
+          },
+          "pageid": 419720,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg/330px-Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg.png",
+            "width": 330,
+            "height": 174
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg/1280px-Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg.png",
+            "width": 1235,
+            "height": 650
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1340801091",
+          "tid": "0a9b13de-1415-11f1-aee7-084633a504d0",
+          "timestamp": "2026-02-27T19:46:43Z",
+          "description": "American navy of the Revolutionary War period (1775–1785)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Continental_Navy",
+              "revisions": "https://en.wikipedia.org/wiki/Continental_Navy?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Continental_Navy?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Continental_Navy"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Continental_Navy",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Continental_Navy",
+              "edit": "https://en.wikipedia.org/wiki/Continental_Navy?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Continental_Navy"
+            }
+          },
+          "extract": "The Continental Navy was the navy of the United Colonies and United States from 1775 to 1785. It was founded on October 13, 1775 by the Continental Congress to fight against British forces and their allies as part of the American Revolutionary War. In 1776, Commodore Esek Hopkins was appointed by Congress to command the navy. Due to the efforts of several prominent patrons such as John Adams, the Continental Navy eventually developed into a substantial force, though it never replicated the successes of the Continental Army.",
+          "extract_html": "<p>The <b>Continental Navy</b> was the navy of the United Colonies and United States from 1775 to 1785. It was founded on October 13, 1775 by the Continental Congress to fight against British forces and their allies as part of the American Revolutionary War. In 1776, Commodore Esek Hopkins was appointed by Congress to command the navy. Due to the efforts of several prominent patrons such as John Adams, the Continental Navy eventually developed into a substantial force, though it never replicated the successes of the Continental Army.</p>",
+          "normalizedtitle": "Continental Navy"
+        }
+      ],
+      "year": 1775
+    },
+    {
+      "text": "Port Royal, the capital of French Acadia, falls in a siege by British forces.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Siege_of_Port_Royal_(1710)",
+          "displaytitle": "<span class=\"mw-page-title-main\">Siege of Port Royal (1710)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3078994",
+          "titles": {
+            "canonical": "Siege_of_Port_Royal_(1710)",
+            "normalized": "Siege of Port Royal (1710)",
+            "display": "<span class=\"mw-page-title-main\">Siege of Port Royal (1710)</span>"
+          },
+          "pageid": 26397936,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/EvacutionOfPortRoyal1710byCWJefferys.png/330px-EvacutionOfPortRoyal1710byCWJefferys.png",
+            "width": 330,
+            "height": 260
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/EvacutionOfPortRoyal1710byCWJefferys.png",
+            "width": 357,
+            "height": 281
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346700087",
+          "tid": "3298f14d-2e79-11f1-baa4-5170fec567d4",
+          "timestamp": "2026-04-02T09:49:10Z",
+          "description": "Part of Queen Anne's War",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 44.74166667,
+            "lon": -65.51861111
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)",
+              "revisions": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Siege_of_Port_Royal_(1710)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Siege_of_Port_Royal_(1710)",
+              "edit": "https://en.wikipedia.org/wiki/Siege_of_Port_Royal_(1710)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Siege_of_Port_Royal_(1710)"
+            }
+          },
+          "extract": "The siege of Port Royal, also known as the Conquest of Acadia, was a military siege conducted by British regular and provincial forces under the command of Francis Nicholson against a French Acadian garrison and the Wabanaki Confederacy under the command of Daniel d'Auger de Subercase, at the Acadian capital, Port Royal. The successful British siege marked the beginning of permanent British control over the peninsular portion of Acadia, which had been referred to as Nova Scotia by the British since 1621. It was the first time the British permanently took and held a French colonial possession. After the French surrender, the British occupied the fort in the capital with all the pomp and ceremony of having captured one of the great fortresses of Europe, and renamed it Annapolis Royal.",
+          "extract_html": "<p>The <b>siege of Port Royal</b>, also known as the <b>Conquest of Acadia</b>, was a military siege conducted by British regular and provincial forces under the command of Francis Nicholson against a French Acadian garrison and the Wabanaki Confederacy under the command of Daniel d'Auger de Subercase, at the Acadian capital, Port Royal. The successful British siege marked the beginning of permanent British control over the peninsular portion of Acadia, which had been referred to as Nova Scotia by the British since 1621. It was the first time the British permanently took and held a French colonial possession. After the French surrender, the British occupied the fort in the capital with all the pomp and ceremony of having captured one of the great fortresses of Europe, and renamed it Annapolis Royal.</p>",
+          "normalizedtitle": "Siege of Port Royal (1710)"
+        }
+      ],
+      "year": 1710
+    },
+    {
+      "text": "A Swedish–Dutch fleet defeats the Danish fleet at Fehmarn and captures about 1,000 prisoners.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Battle_of_Fehmarn_(1644)",
+          "displaytitle": "<span class=\"mw-page-title-main\">Battle of Fehmarn (1644)</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q392121",
+          "titles": {
+            "canonical": "Battle_of_Fehmarn_(1644)",
+            "normalized": "Battle of Fehmarn (1644)",
+            "display": "<span class=\"mw-page-title-main\">Battle of Fehmarn (1644)</span>"
+          },
+          "pageid": 1626765,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sj%C3%B6strid-Sj%C3%B6slaget_vid_Femernb%C3%A4lt_1644_-_Sj%C3%B6historiska_museet_-_O_08132.tif/lossy-page1-330px-Sj%C3%B6strid-Sj%C3%B6slaget_vid_Femernb%C3%A4lt_1644_-_Sj%C3%B6historiska_museet_-_O_08132.tif.jpg",
+            "width": 330,
+            "height": 114
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sj%C3%B6strid-Sj%C3%B6slaget_vid_Femernb%C3%A4lt_1644_-_Sj%C3%B6historiska_museet_-_O_08132.tif/lossy-page1-7462px-Sj%C3%B6strid-Sj%C3%B6slaget_vid_Femernb%C3%A4lt_1644_-_Sj%C3%B6historiska_museet_-_O_08132.tif.jpg",
+            "width": 7462,
+            "height": 2570
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1336962499",
+          "tid": "8d393327-0387-11f1-a57d-ffb4bdc2f7cf",
+          "timestamp": "2026-02-06T18:13:35Z",
+          "description": "Part of the Torstenson War",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 54.6735,
+            "lon": 11.03566667
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Battle_of_Fehmarn_(1644)",
+              "revisions": "https://en.wikipedia.org/wiki/Battle_of_Fehmarn_(1644)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Battle_of_Fehmarn_(1644)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Battle_of_Fehmarn_(1644)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Battle_of_Fehmarn_(1644)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Battle_of_Fehmarn_(1644)",
+              "edit": "https://en.wikipedia.org/wiki/Battle_of_Fehmarn_(1644)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Battle_of_Fehmarn_(1644)"
+            }
+          },
+          "extract": "The Battle of Fehmarn (1644) took place north-west of the island of Fehmarn, now part of Germany, in the Baltic Sea. A combined Swedish fleet, with a large element of hired Dutch ships, defeated a Danish-Norwegian fleet and took 1,000 prisoners, including Ulfeldt, Grabov and von Jasmund. The Danish admiral Pros Mund was killed in the battle.",
+          "extract_html": "<p>The <b>Battle of Fehmarn (1644)</b> took place north-west of the island of Fehmarn, now part of Germany, in the Baltic Sea. A combined Swedish fleet, with a large element of hired Dutch ships, defeated a Danish-Norwegian fleet and took 1,000 prisoners, including Ulfeldt, Grabov and von Jasmund. The Danish admiral Pros Mund was killed in the battle.</p>",
+          "normalizedtitle": "Battle of Fehmarn (1644)"
+        }
+      ],
+      "year": 1644
+    },
+    {
+      "text": "Coronation of Henry IV of England at Westminster Abbey.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Henry_IV_of_England",
+          "displaytitle": "<span class=\"mw-page-title-main\">Henry IV of England</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q161866",
+          "titles": {
+            "canonical": "Henry_IV_of_England",
+            "normalized": "Henry IV of England",
+            "display": "<span class=\"mw-page-title-main\">Henry IV of England</span>"
+          },
+          "pageid": 46861,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Illumination_of_Henry_IV_%28cropped%29.jpg/330px-Illumination_of_Henry_IV_%28cropped%29.jpg",
+            "width": 330,
+            "height": 394
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Illumination_of_Henry_IV_%28cropped%29.jpg",
+            "width": 375,
+            "height": 448
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1346781508",
+          "tid": "f21e8f48-2edb-11f1-83a1-1e5828f976cc",
+          "timestamp": "2026-04-02T21:36:02Z",
+          "description": "King of England from 1399 to 1413",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+              "revisions": "https://en.wikipedia.org/wiki/Henry_IV_of_England?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Henry_IV_of_England?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Henry_IV_of_England"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Henry_IV_of_England",
+              "edit": "https://en.wikipedia.org/wiki/Henry_IV_of_England?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Henry_IV_of_England"
+            }
+          },
+          "extract": "Henry IV, also known as Henry Bolingbroke, was King of England from 1399 to 1413, Lord of Ireland and duke of Aquitaine. Henry was the son of John of Gaunt, Duke of Lancaster and a grandson of King Edward III.",
+          "extract_html": "<p><b>Henry IV</b>, also known as <b>Henry Bolingbroke</b>, was King of England from 1399 to 1413, Lord of Ireland and duke of Aquitaine. Henry was the son of John of Gaunt, Duke of Lancaster and a grandson of King Edward III.</p>",
+          "normalizedtitle": "Henry IV of England"
+        }
+      ],
+      "year": 1399
+    },
+    {
+      "text": "Rinchinbal Khan becomes the Khagan of the Mongols and Emperor of the Yuan dynasty, reigning for only 53 days.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Rinchinbal_Khan",
+          "displaytitle": "<span class=\"mw-page-title-main\">Rinchinbal Khan</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q8664",
+          "titles": {
+            "canonical": "Rinchinbal_Khan",
+            "normalized": "Rinchinbal Khan",
+            "display": "<span class=\"mw-page-title-main\">Rinchinbal Khan</span>"
+          },
+          "pageid": 1086520,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YuanEmperorAlbumIrinchinbalPortrait.jpg/330px-YuanEmperorAlbumIrinchinbalPortrait.jpg",
+            "width": 330,
+            "height": 412
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/YuanEmperorAlbumIrinchinbalPortrait.jpg",
+            "width": 3233,
+            "height": 4041
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1338159475",
+          "tid": "23bca4d1-08ee-11f1-8a69-5213501ed620",
+          "timestamp": "2026-02-13T15:10:32Z",
+          "description": "Emperor of Yuan - Mongol Empire in 1332",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Rinchinbal_Khan",
+              "revisions": "https://en.wikipedia.org/wiki/Rinchinbal_Khan?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Rinchinbal_Khan?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rinchinbal_Khan"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Rinchinbal_Khan",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Rinchinbal_Khan",
+              "edit": "https://en.wikipedia.org/wiki/Rinchinbal_Khan?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rinchinbal_Khan"
+            }
+          },
+          "extract": "Rinchinbal, also known by his temple name as the Emperor Ningzong of Yuan, was a son of Kuśala who was briefly installed to the throne of the Yuan dynasty of Mongol, but died soon after he was installed to the throne. Apart from Emperor of China, he is also considered the 14th Great Khan of the Mongol Empire, although it was only nominal due to the division of the empire.",
+          "extract_html": "<p><b>Rinchinbal</b>, also known by his temple name as the <b>Emperor Ningzong of Yuan</b>, was a son of Kuśala who was briefly installed to the throne of the Yuan dynasty of Mongol, but died soon after he was installed to the throne. Apart from Emperor of China, he is also considered the 14th Great Khan of the Mongol Empire, although it was only nominal due to the division of the empire.</p>",
+          "normalizedtitle": "Rinchinbal Khan"
+        }
+      ],
+      "year": 1332
+    },
+    {
+      "text": "Hundreds of the Knights Templar in France are arrested at dawn by King Philip the Fair, and later confess under torture to heresy.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Knights_Templar",
+          "displaytitle": "<span class=\"mw-page-title-main\">Knights Templar</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q41300",
+          "titles": {
+            "canonical": "Knights_Templar",
+            "normalized": "Knights Templar",
+            "display": "<span class=\"mw-page-title-main\">Knights Templar</span>"
+          },
+          "pageid": 16869,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_Templ%C3%A1ria.svg/330px-Bandeira_Templ%C3%A1ria.svg.png",
+            "width": 330,
+            "height": 198
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandeira_Templ%C3%A1ria.svg/1280px-Bandeira_Templ%C3%A1ria.svg.png",
+            "width": 1000,
+            "height": 600
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347219805",
+          "tid": "472df13c-30e6-11f1-864c-7f1b9c6255c5",
+          "timestamp": "2026-04-05T11:55:02Z",
+          "description": "Catholic military order, 1118 to 1312",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Knights_Templar",
+              "revisions": "https://en.wikipedia.org/wiki/Knights_Templar?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Knights_Templar?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Knights_Templar"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Knights_Templar",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Knights_Templar",
+              "edit": "https://en.wikipedia.org/wiki/Knights_Templar?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Knights_Templar"
+            }
+          },
+          "extract": "The Poor Fellow-Soldiers of Christ and of the Temple of Solomon, mainly known as the Knights Templar, was a military order of the Catholic faith, and one of the most important military orders in Western Christianity. They were founded in 1118 to defend pilgrims on their way to Jerusalem, with their headquarters located there on the Temple Mount, and existed for nearly two centuries during the Middle Ages.",
+          "extract_html": "<p>The <b>Poor Fellow-Soldiers of Christ and of the Temple of Solomon</b>, mainly known as the <b>Knights Templar</b>, was a military order of the Catholic faith, and one of the most important military orders in Western Christianity. They were founded in 1118 to defend pilgrims on their way to Jerusalem, with their headquarters located there on the Temple Mount, and existed for nearly two centuries during the Middle Ages.</p>",
+          "normalizedtitle": "Knights Templar"
+        },
+        {
+          "type": "standard",
+          "title": "Philip_IV_of_France",
+          "displaytitle": "<span class=\"mw-page-title-main\">Philip IV of France</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q130969",
+          "titles": {
+            "canonical": "Philip_IV_of_France",
+            "normalized": "Philip IV of France",
+            "display": "<span class=\"mw-page-title-main\">Philip IV of France</span>"
+          },
+          "pageid": 77169,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Philip_iv_and_family._2_%28detail_crop%29.jpg/330px-Philip_iv_and_family._2_%28detail_crop%29.jpg",
+            "width": 330,
+            "height": 605
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Philip_iv_and_family._2_%28detail_crop%29.jpg",
+            "width": 352,
+            "height": 645
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1332020990",
+          "tid": "1f83f3c1-ed5c-11f0-b46b-752f40b2fb63",
+          "timestamp": "2026-01-09T13:07:17Z",
+          "description": "King of France from 1285 to 1314",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+              "revisions": "https://en.wikipedia.org/wiki/Philip_IV_of_France?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Philip_IV_of_France?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Philip_IV_of_France"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Philip_IV_of_France",
+              "edit": "https://en.wikipedia.org/wiki/Philip_IV_of_France?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Philip_IV_of_France"
+            }
+          },
+          "extract": "Philip IV, called Philip the Fair, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as Philip I from 1284 to 1305. Although Philip was known to be handsome, hence the epithet le Bel, his rigid, autocratic, imposing, and inflexible personality gained him other nicknames, such as the Iron King. His fierce opponent Bernard Saisset, bishop of Pamiers, said of him: \"He is neither man nor beast. He is a statue.\"",
+          "extract_html": "<p><b>Philip IV</b>, called <b>Philip the Fair</b>, was King of France from 1285 to 1314. By virtue of his marriage with Joan I of Navarre, he was also King of Navarre and Count of Champagne as <b>Philip I</b> from 1284 to 1305. Although Philip was known to be handsome, hence the epithet <i>le Bel</i>, his rigid, autocratic, imposing, and inflexible personality gained him other nicknames, such as <b>the Iron King</b>. His fierce opponent Bernard Saisset, bishop of Pamiers, said of him: \"He is neither man nor beast. He is a statue.\"</p>",
+          "normalizedtitle": "Philip IV of France"
+        }
+      ],
+      "year": 1307
+    },
+    {
+      "text": "The present church building at Westminster Abbey is consecrated.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Westminster_Abbey",
+          "displaytitle": "<span class=\"mw-page-title-main\">Westminster Abbey</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q5933",
+          "titles": {
+            "canonical": "Westminster_Abbey",
+            "normalized": "Westminster Abbey",
+            "display": "<span class=\"mw-page-title-main\">Westminster Abbey</span>"
+          },
+          "pageid": 43245,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Westminster_Abbey_St_Peter.jpg/330px-Westminster_Abbey_St_Peter.jpg",
+            "width": 330,
+            "height": 411
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Westminster_Abbey_St_Peter.jpg",
+            "width": 2811,
+            "height": 3497
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347629844",
+          "tid": "aa737915-32c0-11f1-9666-031b7d126a3e",
+          "timestamp": "2026-04-07T20:30:50Z",
+          "description": "Church in London, England",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 51.49944444,
+            "lon": -0.1275
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+              "revisions": "https://en.wikipedia.org/wiki/Westminster_Abbey?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Westminster_Abbey?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Westminster_Abbey"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Westminster_Abbey",
+              "edit": "https://en.wikipedia.org/wiki/Westminster_Abbey?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Westminster_Abbey"
+            }
+          },
+          "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+          "extract_html": "<p><b>Westminster Abbey</b>, formally titled the <b>Collegiate Church of Saint Peter at Westminster</b>, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.</p>",
+          "normalizedtitle": "Westminster Abbey"
+        }
+      ],
+      "year": 1269
+    },
+    {
+      "text": "Vandals and Alans cross the Pyrenees and appear in Hispania.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Vandals",
+          "displaytitle": "<span class=\"mw-page-title-main\">Vandals</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q42211",
+          "titles": {
+            "canonical": "Vandals",
+            "normalized": "Vandals",
+            "display": "<span class=\"mw-page-title-main\">Vandals</span>"
+          },
+          "pageid": 46516,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/KHM_Wien_VIIb_105_-_Vandalic_goldfoil_jewelry%2C_c._300_AD.jpg/330px-KHM_Wien_VIIb_105_-_Vandalic_goldfoil_jewelry%2C_c._300_AD.jpg",
+            "width": 330,
+            "height": 321
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/KHM_Wien_VIIb_105_-_Vandalic_goldfoil_jewelry%2C_c._300_AD.jpg",
+            "width": 2154,
+            "height": 2094
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1333518685",
+          "tid": "09ea87ce-f43e-11f0-a85d-f32f33d8efdc",
+          "timestamp": "2026-01-18T07:19:34Z",
+          "description": "East Germanic tribe",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Vandals",
+              "revisions": "https://en.wikipedia.org/wiki/Vandals?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Vandals?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Vandals"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Vandals",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Vandals",
+              "edit": "https://en.wikipedia.org/wiki/Vandals?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Vandals"
+            }
+          },
+          "extract": "The Vandals were a Germanic people who were first mentioned in the written records as the inhabitants of what is now Poland, during the period of the Roman Empire. Much later, in the 5th century, a group of Vandals led by kings established Vandal kingdoms, first within the Iberian Peninsula, and then in the western Mediterranean islands and North Africa.",
+          "extract_html": "<p>The <b>Vandals</b> were a Germanic people who were first mentioned in the written records as the inhabitants of what is now Poland, during the period of the Roman Empire. Much later, in the 5th century, a group of Vandals led by kings established Vandal kingdoms, first within the Iberian Peninsula, and then in the western Mediterranean islands and North Africa.</p>",
+          "normalizedtitle": "Vandals"
+        },
+        {
+          "type": "standard",
+          "title": "Alans",
+          "displaytitle": "<span class=\"mw-page-title-main\">Alans</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q178054",
+          "titles": {
+            "canonical": "Alans",
+            "normalized": "Alans",
+            "display": "<span class=\"mw-page-title-main\">Alans</span>"
+          },
+          "pageid": 45121,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alans.jpg/330px-Alans.jpg",
+            "width": 330,
+            "height": 142
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Alans.jpg",
+            "width": 1176,
+            "height": 507
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1344691707",
+          "tid": "da6314f6-2585-11f1-be97-caf87e3ce6be",
+          "timestamp": "2026-03-22T00:27:05Z",
+          "description": "Ancient Iranic people of the North Caucasus",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Alans",
+              "revisions": "https://en.wikipedia.org/wiki/Alans?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Alans?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alans"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Alans",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Alans",
+              "edit": "https://en.wikipedia.org/wiki/Alans?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alans"
+            }
+          },
+          "extract": "The Alans were an ancient and medieval Iranic nomadic pastoral people who migrated to what is today the North Caucasus; some continued on to Europe and later North Africa. They are generally regarded as part of the Sarmatians, and possibly related to the Massagetae. Modern historians have connected the Alans with the Central Asian Yancai of Chinese sources and with the Aorsi of Roman sources. Having migrated westwards and becoming dominant among the Sarmatians on the Pontic–Caspian steppe, the Alans are mentioned by Roman sources in the 1st century CE. At that time they had settled in the region north of the Black Sea and frequently raided the Parthian Empire and the South Caucasus provinces of the Roman Empire. Between 215 and 250 CE the Goths broke their hold on the Pontic Steppe, thereby assimilating a significant population of associated Alans.",
+          "extract_html": "<p>The <b>Alans</b> were an ancient and medieval Iranic nomadic pastoral people who migrated to what is today the North Caucasus; some continued on to Europe and later North Africa. They are generally regarded as part of the Sarmatians, and possibly related to the Massagetae. Modern historians have connected the Alans with the Central Asian Yancai of Chinese sources and with the Aorsi of Roman sources. Having migrated westwards and becoming dominant among the Sarmatians on the Pontic–Caspian steppe, the Alans are mentioned by Roman sources in the 1st century CE. At that time they had settled in the region north of the Black Sea and frequently raided the Parthian Empire and the South Caucasus provinces of the Roman Empire. Between 215 and 250 CE the Goths broke their hold on the Pontic Steppe, thereby assimilating a significant population of associated Alans.</p>",
+          "normalizedtitle": "Alans"
+        },
+        {
+          "type": "standard",
+          "title": "Hispania",
+          "displaytitle": "<span class=\"mw-page-title-main\">Hispania</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q186513",
+          "titles": {
+            "canonical": "Hispania",
+            "normalized": "Hispania",
+            "display": "<span class=\"mw-page-title-main\">Hispania</span>"
+          },
+          "pageid": 20597079,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Conquista_Hispania.svg/330px-Conquista_Hispania.svg.png",
+            "width": 330,
+            "height": 226
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Conquista_Hispania.svg/960px-Conquista_Hispania.svg.png",
+            "width": 950,
+            "height": 650
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1333537073",
+          "tid": "d1f23ed6-f45b-11f0-9e8d-c725cd3301a7",
+          "timestamp": "2026-01-18T10:52:45Z",
+          "description": "Roman province (218 BC – 472 AD)",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 40.21,
+            "lon": -4.35
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Hispania",
+              "revisions": "https://en.wikipedia.org/wiki/Hispania?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Hispania?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Hispania"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Hispania",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Hispania",
+              "edit": "https://en.wikipedia.org/wiki/Hispania?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Hispania"
+            }
+          },
+          "extract": "Hispania was the Roman name for the Iberian Peninsula. Under the Roman Republic, it was divided into two provinces: Hispania Citerior and Hispania Ulterior. During the Roman Empire, under the Principate, Hispania Ulterior was subdivided into Baetica and Lusitania, while Hispania Citerior was reorganized as Hispania Tarraconensis.",
+          "extract_html": "<p><b>Hispania</b> was the Roman name for the Iberian Peninsula. Under the Roman Republic, it was divided into two provinces: Hispania Citerior and Hispania Ulterior. During the Roman Empire, under the Principate, Hispania Ulterior was subdivided into Baetica and Lusitania, while Hispania Citerior was reorganized as Hispania Tarraconensis.</p>",
+          "normalizedtitle": "Hispania"
+        }
+      ],
+      "year": 409
+    },
+    {
+      "text": "Roman emperor Claudius dies from poisoning under mysterious circumstances. He is succeeded by his adopted son Nero, rather than by Britannicus, his son with Messalina.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "AD_54",
+          "displaytitle": "<span class=\"mw-page-title-main\">AD 54</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q24847",
+          "titles": {
+            "canonical": "AD_54",
+            "normalized": "AD 54",
+            "display": "<span class=\"mw-page-title-main\">AD 54</span>"
+          },
+          "pageid": 34816,
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1330182036",
+          "tid": "3cbef283-e50c-11f0-96de-2594529f9d76",
+          "timestamp": "2025-12-29T23:15:17Z",
+          "description": "Calendar year",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/AD_54",
+              "revisions": "https://en.wikipedia.org/wiki/AD_54?action=history",
+              "edit": "https://en.wikipedia.org/wiki/AD_54?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:AD_54"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/AD_54",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/AD_54",
+              "edit": "https://en.wikipedia.org/wiki/AD_54?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:AD_54"
+            }
+          },
+          "extract": "AD 54 (LIV) was a common year starting on Tuesday of the Julian calendar. At the time, it was known as the Year of the Consulship of Lentulus and Marcellus. The denomination AD 54 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.",
+          "extract_html": "<p><b>AD 54</b> (<b>LIV</b>) was a common year starting on Tuesday of the Julian calendar. At the time, it was known as the <b>Year of the Consulship of Lentulus and Marcellus</b>. The denomination AD 54 for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.</p>",
+          "normalizedtitle": "AD 54"
+        },
+        {
+          "type": "standard",
+          "title": "Claudius",
+          "displaytitle": "<span class=\"mw-page-title-main\">Claudius</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1411",
+          "titles": {
+            "canonical": "Claudius",
+            "normalized": "Claudius",
+            "display": "<span class=\"mw-page-title-main\">Claudius</span>"
+          },
+          "pageid": 6140,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/330px-Claudius_crop.jpg",
+            "width": 330,
+            "height": 436
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Claudius_crop.jpg",
+            "width": 2340,
+            "height": 3092
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1345366424",
+          "tid": "cd436de3-287c-11f1-8a75-9e00390ea671",
+          "timestamp": "2026-03-25T18:59:51Z",
+          "description": "Roman emperor from AD 41 to 54",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Claudius",
+              "revisions": "https://en.wikipedia.org/wiki/Claudius?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Claudius?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Claudius"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Claudius",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Claudius",
+              "edit": "https://en.wikipedia.org/wiki/Claudius?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Claudius"
+            }
+          },
+          "extract": "Tiberius Claudius Caesar Augustus Germanicus, or Claudius, was a Roman emperor, ruling from AD 41 to 54. A member of the Julio-Claudian dynasty, Claudius was born to Drusus and Antonia Minor at Lugdunum in Roman Gaul, where his father was stationed as a military legate. He was the first Roman emperor to be born outside Italy.",
+          "extract_html": "<p><b>Tiberius Claudius Caesar Augustus Germanicus</b>, or <b>Claudius</b>, was a Roman emperor, ruling from AD 41 to 54. A member of the Julio-Claudian dynasty, Claudius was born to Drusus and Antonia Minor at Lugdunum in Roman Gaul, where his father was stationed as a military legate. He was the first Roman emperor to be born outside Italy.</p>",
+          "normalizedtitle": "Claudius"
+        },
+        {
+          "type": "standard",
+          "title": "Nero",
+          "displaytitle": "<span class=\"mw-page-title-main\">Nero</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1413",
+          "titles": {
+            "canonical": "Nero",
+            "normalized": "Nero",
+            "display": "<span class=\"mw-page-title-main\">Nero</span>"
+          },
+          "pageid": 21632,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/330px-Nero_Glyptothek_Munich_321.jpg",
+            "width": 330,
+            "height": 449
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nero_Glyptothek_Munich_321.jpg",
+            "width": 1604,
+            "height": 2183
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1347619867",
+          "tid": "56fc3090-32b6-11f1-8b60-a60b9ca101a5",
+          "timestamp": "2026-04-07T19:16:55Z",
+          "description": "Roman emperor from AD 54 to 68",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Nero",
+              "revisions": "https://en.wikipedia.org/wiki/Nero?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Nero?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Nero"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Nero",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Nero",
+              "edit": "https://en.wikipedia.org/wiki/Nero?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Nero"
+            }
+          },
+          "extract": "Nero Claudius Caesar Augustus Germanicus was a Roman emperor and the final emperor of the Julio-Claudian dynasty, reigning from AD 54 until his suicide in AD 68.",
+          "extract_html": "<p><b>Nero Claudius Caesar Augustus Germanicus</b> was a Roman emperor and the final emperor of the Julio-Claudian dynasty, reigning from AD 54 until his suicide in AD 68.</p>",
+          "normalizedtitle": "Nero"
+        },
+        {
+          "type": "standard",
+          "title": "Britannicus",
+          "displaytitle": "<span class=\"mw-page-title-main\">Britannicus</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q313115",
+          "titles": {
+            "canonical": "Britannicus",
+            "normalized": "Britannicus",
+            "display": "<span class=\"mw-page-title-main\">Britannicus</span>"
+          },
+          "pageid": 75073,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Messalina_from_Rome_Louvre_Ma1224_n2.jpg/330px-Messalina_from_Rome_Louvre_Ma1224_n2.jpg",
+            "width": 330,
+            "height": 495
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Messalina_from_Rome_Louvre_Ma1224_n2.jpg",
+            "width": 4731,
+            "height": 7096
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1340356639",
+          "tid": "8595ddbc-1215-11f1-b604-523a43a6e932",
+          "timestamp": "2026-02-25T06:45:07Z",
+          "description": "Son of Roman emperor Claudius (AD 41–55)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Britannicus",
+              "revisions": "https://en.wikipedia.org/wiki/Britannicus?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Britannicus?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Britannicus"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Britannicus",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Britannicus",
+              "edit": "https://en.wikipedia.org/wiki/Britannicus?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Britannicus"
+            }
+          },
+          "extract": "Tiberius Claudius Caesar Britannicus, usually called Britannicus, was the son of Roman Emperor Claudius and his third wife, Valeria Messalina. For a time, he was considered his father's heir, but that changed after his mother's downfall in 48, when it was revealed she had engaged in a bigamous marriage without Claudius' knowledge. The next year, his father married Agrippina the Younger, Claudius' fourth and final marriage. Their marriage was followed by the adoption of Agrippina's son, Lucius Domitius Ahenobarbus, whose name became Nero as a result. His stepbrother would later be married to Britannicus' sister Octavia and soon eclipsed him as Claudius' heir. After his father's death in October 54, Nero became emperor. The sudden death of Britannicus shortly before his fourteenth birthday is reported by all extant sources as being the result of poisoning on Nero's orders; as Claudius' biological son, he represented a threat to Nero's claim to the throne. In Suetonius' The Twelve Caesars, he claims that Nero poisoned Britannicus out of envy of his voice, due to Nero's own obsession with performance and being the best entertainer of all time.",
+          "extract_html": "<p><b>Tiberius Claudius Caesar Britannicus</b>, usually called <b>Britannicus</b>, was the son of Roman Emperor Claudius and his third wife, Valeria Messalina. For a time, he was considered his father's heir, but that changed after his mother's downfall in 48, when it was revealed she had engaged in a bigamous marriage without Claudius' knowledge. The next year, his father married Agrippina the Younger, Claudius' fourth and final marriage. Their marriage was followed by the adoption of Agrippina's son, Lucius Domitius Ahenobarbus, whose name became Nero as a result. His stepbrother would later be married to Britannicus' sister Octavia and soon eclipsed him as Claudius' heir. After his father's death in October 54, Nero became emperor. The sudden death of Britannicus shortly before his fourteenth birthday is reported by all extant sources as being the result of poisoning on Nero's orders; as Claudius' biological son, he represented a threat to Nero's claim to the throne. In Suetonius' The Twelve Caesars, he claims that Nero poisoned Britannicus out of envy of his voice, due to Nero's own obsession with performance and being the best entertainer of all time.</p>",
+          "normalizedtitle": "Britannicus"
+        },
+        {
+          "type": "standard",
+          "title": "Messalina",
+          "displaytitle": "<span class=\"mw-page-title-main\">Messalina</span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q229871",
+          "titles": {
+            "canonical": "Messalina",
+            "normalized": "Messalina",
+            "display": "<span class=\"mw-page-title-main\">Messalina</span>"
+          },
+          "pageid": 59711,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Messalina_from_Rome_Louvre_Ma1224_n3.jpg/330px-Messalina_from_Rome_Louvre_Ma1224_n3.jpg",
+            "width": 330,
+            "height": 495
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Messalina_from_Rome_Louvre_Ma1224_n3.jpg",
+            "width": 5255,
+            "height": 7883
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1331526314",
+          "tid": "76a97e07-eb38-11f0-9689-523b165de9ba",
+          "timestamp": "2026-01-06T19:46:59Z",
+          "description": "Roman empress from AD 41 to 48",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Messalina",
+              "revisions": "https://en.wikipedia.org/wiki/Messalina?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Messalina?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Messalina"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Messalina",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Messalina",
+              "edit": "https://en.wikipedia.org/wiki/Messalina?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Messalina"
+            }
+          },
+          "extract": "Valeria Messalina was the third wife of Roman emperor Claudius. She was a paternal cousin of Emperor Nero, a second cousin of Emperor Caligula, and a great-grandniece of Emperor Augustus. A powerful and influential woman with a reputation for promiscuity, she allegedly conspired against her husband and was executed on the discovery of the plot. Her notorious reputation may have resulted from political bias, but works of art and literature have perpetuated it into modern times.",
+          "extract_html": "<p><b>Valeria Messalina</b> was the third wife of Roman emperor Claudius. She was a paternal cousin of Emperor Nero, a second cousin of Emperor Caligula, and a great-grandniece of Emperor Augustus. A powerful and influential woman with a reputation for promiscuity, she allegedly conspired against her husband and was executed on the discovery of the plot. Her notorious reputation may have resulted from political bias, but works of art and literature have perpetuated it into modern times.</p>",
+          "normalizedtitle": "Messalina"
+        }
+      ],
+      "year": 54
+    }
+  ]
+}
