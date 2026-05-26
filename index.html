@@ -158,7 +158,7 @@
                 $('#eventModal').modal('show');
 
                 $.ajax({
-                    url: `/wiki/${fileName}`,
+                    url: `wiki/${fileName}`,
                     dataType: 'json',
                     success: function(data) {
                         const rawEvents = data.events || [];
